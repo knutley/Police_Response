@@ -64,23 +64,25 @@ training_text <- c(
   "protestors were killed", 
   "protestor was killed", 
   "demonstrators were killed", 
-  "demonstrator was killed" 
+  "demonstrator was killed" ,
+  "blabla"
 )
 
-training_labels <- c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)
+training_labels <- c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,0)
 
-training_data <- data.frame(training_labels, training_text)
+training_data <- data.frame(training_labels=training_labels, 
+                            training_text=training_text)
 View(training_data)
 
 # Convert Training Data into a Corpus # 
 
-training_corpus <- corpus(training_data) # This threw up an error message that 
+training_corpus <- corpus(training_data,text_field = "training_text") # This threw up an error message that 
 # reads, "Error in corpus.data.frame(training_data): text_field column not found 
 # or invalid." 
 
-library(tm)
+#library(tm)
 
-training_corpus <- Corpus(VectorSource(training_data$training_text)) 
+#training_corpus <- Corpus(VectorSource(training_data$training_text)) 
 # This appears to have worked? There was no error or warning? 
 
 # The author of the seed script I used said, "different to other algorithms, I 
@@ -99,7 +101,7 @@ docvars(training_corpus, "id_numeric") <- 1:ndoc(training_corpus) # This just th
 class(training_corpus) # This identifies the training_corpus as a corpus, though?
 # You need to ask Hauke about this - have tried handling this every which way. 
 # Maybe it's unnecessary for such a small corpus that only has 1 variable and 1 
-# text column? 
+# text column? So, 
 
 # Draw the Samples # 
 
@@ -108,7 +110,9 @@ class(training_corpus) # This identifies the training_corpus as a corpus, though
 # matrix, which is needed to run the algorithms. 
 
 training_dtm <- corpus_subset(training_corpus, id_numeric %in% id_train) %>%
-  dfm(stem = TRUE, remove_punct = TRUE, tolower = TRUE, remove_numbers = TRUE)
+  tokens() %>% 
+  dfm() %>% 
+  dfm_wordstem()
 # Threw up the following error message: "Error: corpus_subset() only works on 
 # corpus objects." 
 
@@ -118,20 +122,21 @@ training_dtm <- corpus_subset(training_corpus, id_numeric %in% id_train) %>%
 
 
 
-TestDTM<-corpus_subset(TrainingDataCorpus,!id_numeric %in% id_train) %>%
-  dfm(stem=TRUE,remove_punct=TRUE,tolower=TRUE, remove_numbers=TRUE)
+TestDTM<-corpus_subset(training_corpus,!id_numeric %in% id_train) %>%
+  tokens() %>% 
+  dfm()
 
 #Train the model and make predictions
 #
 #Train the model to classify into your coding variable (in this case called "VAR")
-nbModel<-textmodel_nb(TrainingDTM,docvars(TrainingDTM,"VAR"))
+nbModel<-textmodel_nb(training_dtm,docvars(training_dtm,"training_labels"))
 #Use the model to classify the test data. dfm_match necessary to have the same features for both document-feature matrixes.
-predicted_class <- predict(nbModel, newdata = dfm_match(TestDTM, features = featnames(TrainingDTM)))
+predicted_class <- predict(nbModel, newdata = dfm_match(TestDTM, features = featnames(training_dtm)))
 
 #Evaluate the model
 #
 #Get real values
-actual_class <- docvars(matchedDFM, "VAR")
+actual_class <- docvars(TestDTM, "training_labels")
 #Create confusion matrix
 cm<-confusionMatrix(table(actual_class, predicted_class),mode = "everything")
 
