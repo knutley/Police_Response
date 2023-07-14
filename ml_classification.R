@@ -1,4 +1,4 @@
-### Machine-Learning Document Classification ###
+### Machine-Learning Text Classification ###
 ## 10.06.2023 ## 
 
 ##########################
@@ -65,10 +65,30 @@ training_text <- c(
   "protestor was killed", 
   "demonstrators were killed", 
   "demonstrator was killed" ,
-  "blabla"
+  "voice their anger",
+  "gathered outside ",
+  "to occupy",
+  "staged a protest",
+  "call for the government",
+  "marched through",
+  "striking workers",
+  "occupied", 
+  "glued themselves",
+  "blocked off",
+  "gathered at",
+  "death of Mahsa",
+  "justice for Chris Kaba",
+  "Chris Kaba was shot by police",
+  "Flight 752",
+  "marched from",
+  "picketed outside",
+  "show their support",
+  "union representative",
+  
 )
 
-training_labels <- c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,0)
+training_labels <- c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0
+                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, )
 
 training_data <- data.frame(training_labels=training_labels, 
                             training_text=training_text)
