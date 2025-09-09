@@ -1,0 +1,127 @@
+-- GDELT 2.0 UK Protest and Demonstration Events Query
+-- Covers February 2015 to present (GDELT 2.0 timeframe)
+-- Focuses on protest/demonstration event codes with comprehensive metadata
+
+-- If you need it, you can cross-reference the GDELT Codebook: http://data.gdeltproject.org/documentation/GDELT-Event_Codebook-V2.0.pdf
+
+SELECT 
+    -- Time and identification
+    GLOBALEVENTID, -- this will allow me to deduplicate it 
+    SQLDATE, -- YYYYMMDD
+    MonthYear, -- MMDD
+    Year, -- YYYY
+    FractionDate, -- unfamiliar with this 
+    
+    -- Actor information
+    Actor1Code, -- CAMEO code; includes geographic, class, ethnic, etc. 
+    Actor1Name, -- actual name of primary actor
+    Actor1CountryCode, -- country code affiliated with Actor1 
+    Actor1KnownGroupCode, -- if it's a known IGO/NGO/ rebel organisation 
+    Actor1EthnicCode, -- probably irrelevant for my purposes, but might be able to add controls for race-based protest 
+    Actor1Religion1Code, 
+    Actor1Religion2Code,
+    Actor1Type1Code, 
+    Actor1Type2Code,
+    Actor1Type3Code,
+    
+    Actor2Code, -- Again, GDELT specific 
+    Actor2Name, -- actual name of secondary actor 
+    Actor2CountryCode,
+    Actor2KnownGroupCode,
+    Actor2EthnicCode,
+    Actor2Religion1Code,
+    Actor2Religion2Code,
+    Actor2Type1Code,
+    Actor2Type2Code,
+    Actor2Type3Code,
+    
+    -- Event classification
+    IsRootEvent, -- The system codes every event found in an entire document, so there should be a way to deduplicate according to whether it's a 0/1 
+    EventCode, 
+    EventBaseCode,
+    EventRootCode,
+    QuadClass,
+    GoldsteinScale, -- each CAMEO event code is assigned a numeric score from -10 to +10, capturing the theoretical potential impact that type of event will have on the stability of a country.
+    NumMentions,
+    NumSources,
+    NumArticles,
+    AvgTone,
+    
+    -- Geographic data
+    Actor1Geo_Type,
+    Actor1Geo_Fullname,
+    Actor1Geo_CountryCode,
+    Actor1Geo_ADM1Code,
+    Actor1Geo_ADM2Code,
+    Actor1Geo_Lat,
+    Actor1Geo_Long,
+    Actor1Geo_FeatureID,
+    
+    Actor2Geo_Type,
+    Actor2Geo_Fullname,
+    Actor2Geo_CountryCode,
+    Actor2Geo_ADM1Code,
+    Actor2Geo_ADM2Code,
+    Actor2Geo_Lat,
+    Actor2Geo_Long,
+    Actor2Geo_FeatureID,
+    
+    ActionGeo_Type,
+    ActionGeo_Fullname,
+    ActionGeo_CountryCode,
+    ActionGeo_ADM1Code,
+    ActionGeo_ADM2Code,
+    ActionGeo_Lat,
+    ActionGeo_Long,
+    ActionGeo_FeatureID, --
+    
+    -- Source information
+    SOURCEURL, -- this will allow me to scrape the full text later for classification purposes 
+    DATEADDED -- for the people that rely on the data later 
+
+FROM `gdelt-bq.gdeltv2.events`
+
+WHERE 
+    -- Focus on UK events (action location in UK)
+    (ActionGeo_CountryCode = 'UK' OR ActionGeo_CountryCode = 'GB')
+
+    -- Protest and demonstration event codes
+    AND (
+        -- Main protest categories (14x series)
+        EventCode LIKE '14%'  -- Protest events
+        OR EventCode IN (
+            '140', -- Engage in political dissent 
+            '141', -- Demonstrate or rally 
+            '1411', '1412', '1413', '1414',  -- Demonstrate or rally, for leadership, for policy change, for rights, for institutional change
+            '142', -- Conduct hunger strike 
+            '1421', '1422', '1423', '1424',  -- Conduct hunger strike for leadership change, for policy change, for rights, for institutional change
+            '143', -- Conduct strike or boycott 
+            '1431', '1432', '1433', '1434',  -- Conduct strike or boycott for leadership change, for policy change, for rights, for institutional change 
+            '144', -- Obstruct passage, block
+            '1441', '1442', '1443', '1444',  -- Obstruct passage, block for leadership change, for policy change, for rights, for institutional change 
+            '145', -- Protest violently, riot 
+            '1451', '1452', '1453', '1454'   -- Protest violently, riot for leadership change, for policy change, for rights, for institutional change 
+        )
+        -- Also include some related civil unrest codes
+        OR EventCode IN (
+            '133', -- Threaten with political dissent, protest 
+            '170', -- Coerce
+            '171', -- Seize or damage property 
+            '1711', '1712', -- Confiscate or destroy property 
+            '1723', -- Impose curfew
+            '173' -- Arrest, detain or charge with legal action
+        )
+    )
+
+    
+    -- Date range (GDELT 2.0 starts February 19, 2015)
+    AND SQLDATE >= 20150219
+    
+    -- Ensure we have geographic data for the event location
+    AND ActionGeo_Lat IS NOT NULL 
+    AND ActionGeo_Long IS NOT NULL
+
+ORDER BY SQLDATE DESC, GLOBALEVENTID
+
+-- Optional: Add LIMIT clause for testing
+-- LIMIT 10000; will not use this presently because I think it'll be okay 
