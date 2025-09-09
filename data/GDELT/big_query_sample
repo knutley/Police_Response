@@ -3,6 +3,7 @@
 -- Focuses on protest/demonstration event codes with comprehensive metadata
 
 -- If you need it, you can cross-reference the GDELT Codebook: http://data.gdeltproject.org/documentation/GDELT-Event_Codebook-V2.0.pdf
+-- You'll need to change the country codes; but aside from this I think it should work. 
 
 SELECT 
     -- Time and identification
