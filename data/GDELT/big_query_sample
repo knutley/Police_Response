@@ -81,7 +81,8 @@ FROM `gdelt-bq.gdeltv2.events`
 
 WHERE 
     -- Focus on UK events (action location in UK); but you need to change the country code
-    (ActionGeo_CountryCode = 'UK' OR ActionGeo_CountryCode = 'GB')
+    (ActionGeo_CountryCode = 'GBR')
+    -- The codes are here: http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf
 
     -- Protest and demonstration event codes (14x series only)
     AND (
@@ -104,8 +105,11 @@ WHERE
         -- I excluded this because it was just not necessary
     )
     
-    -- Date range (GDELT 2.0 starts February 19, 2015)
-    AND SQLDATE >= 20150219
+    -- Date range (GDELT 2.0 starts February 19, 2015) to August 31, 2025 
+    AND SQLDATE BETWEEN 20150219 AND 20250831
+    -- If you need to chunk it up: 
+    -- AND SQLDATE BETWEEN 20150219 AND 20200219
+    -- AND SQLDATE BETWEEN 20200219 AND 20250831
     
     -- Ensure we have geographic data for the event location
     AND ActionGeo_Lat IS NOT NULL 
