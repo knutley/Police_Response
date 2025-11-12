@@ -1,0 +1,426 @@
+actor_clean,actor_clean_lower,left,right,centre,unknown
+Protesters (France),protesters (france),0,0,0,1
+Protesters (International),protesters (international),0,0,0,1
+Protesters (Serbia),protesters (serbia),0,0,0,1
+Protesters (Germany),protesters (germany),0,0,0,1
+Protesters (Colombia),protesters (colombia),0,0,0,1
+Protesters (Spain),protesters (spain),0,0,0,1
+Protesters (Mali),protesters (mali),0,0,0,1
+Protesters (Ukraine),protesters (ukraine),0,0,0,1
+Protesters (Italy),protesters (italy),0,0,0,1
+Protesters (Russia),protesters (russia),0,0,0,1
+Protesters (Switzerland),protesters (switzerland),0,0,0,1
+Protesters (Senegal),protesters (senegal),0,0,0,1
+Protesters (Armenia),protesters (armenia),0,0,0,1
+Protesters (Belgium),protesters (belgium),0,0,0,1
+Protesters (Luxembourg),protesters (luxembourg),0,0,0,1
+Protesters (Reunion),protesters (reunion),0,0,0,1
+Police Forces of France (2017-),police forces of france (2017-),0,0,0,1
+Military Forces of France (2017-) Gendarmerie,military forces of france (2017-) gendarmerie,0,0,0,1
+Rioters (France),rioters (france),0,0,0,1
+Police Forces of France (2017-) Prison Guards,police forces of france (2017-) prison guards,0,0,0,1
+Military Forces of France (2017-),military forces of france (2017-),0,0,0,1
+Police Forces of France (2017-) BAC: Anti-Crime Squad,police forces of france (2017-) bac: anti-crime squad,0,0,0,1
+Unidentified Armed Group (France),unidentified armed group (france),0,0,0,1
+Private Security Forces (France),private security forces (france),0,0,0,1
+Rioters (Armenia),rioters (armenia),0,0,0,1
+Prisoners (France),prisoners (france),0,0,0,1
+Students (France),students (france),0,0,0,1
+Labor Group (France),labor group (france),0,0,0,1
+Anarchist Group (France),anarchist group (france),0,0,0,1
+Teachers (France),teachers (france),0,0,0,1
+Belarusian Group (France),belarusian group (france),0,0,0,1
+L214 Ethics & Animals,l214 ethics & animals,1,0,0,0
+Women (France),women (france),0,0,0,1
+Government of France (2017-),government of france (2017-),0,1,0,0
+Health Workers (France),health workers (france),0,0,0,1
+BLM: Black Lives Matter,blm: black lives matter,1,0,0,0
+VPA: Truth For Adama,vpa: truth for adama,1,0,0,0
+Velorution,velorution,1,0,0,0
+Farmers (France),farmers (france),0,0,0,1
+RESF: Education Without Borders Network,resf: education without borders network,1,0,0,0
+Lawyers (France),lawyers (france),0,0,0,1
+Alternatiba,alternatiba,1,0,0,0
+ANV-Cop 21,anv-cop 21,1,0,0,0
+Attac,attac,0,0,0,1
+Fishers (France),fishers (france),0,0,0,1
+GJ: Yellow Vests,gj: yellow vests,0,0,1,0
+Catholic Christian Group (France),catholic christian group (france),0,0,0,1
+LDH: Human Rights League (France),ldh: human rights league (france),1,0,0,0
+La Cimade,la cimade,1,0,0,0
+AI: Amnesty International,ai: amnesty international,1,0,0,0
+Marchons Enfants!,marchons enfants!,0,0,0,1
+Labor Group (Belgium),labor group (belgium),0,0,0,1
+Refugees/IDPs (International),refugees/idps (international),0,0,0,1
+SGP Police-FO Unity,sgp police-fo unity,0,0,0,1
+Lebanese Group (France),lebanese group (france),0,0,0,1
+SUD: Democratic Unitary Solidarity,sud: democratic unitary solidarity,1,0,0,0
+FSU: United Federation of Trade Unions,fsu: united federation of trade unions,1,0,0,0
+Muslim Group (France),muslim group (france),0,0,0,1
+FCPE: Federation of Student Parent Councils,fcpe: federation of student parent councils,0,0,0,1
+Independent Politicians (France),independent politicians (france),0,0,0,1
+APN: National Police Alliance,apn: national police alliance,0,1,0,0
+MEDEF: Movement of the Enterprises of France,medef: movement of the enterprises of france,1,0,0,0
+Kurdish Ethnic Group (France),kurdish ethnic group (france),0,0,0,1
+Journalists (France),journalists (france),0,0,0,1
+CGT: General Confederation of Labor (France),cgt: general confederation of labor (france),1,0,0,0
+FO: Workers' Force,fo: workers' force,0,0,0,1
+CFE-CGC: French Confederation of Management - General Confederation of Executives,cfe-cgc: french confederation of management - general confederation of executives,0,0,0,1
+UNL: National High School Union,unl: national high school union,1,0,0,0
+MNL: National High School Student Movement,mnl: national high school student movement,0,0,0,1
+FIDL: Independent and Democratic High School Federation,fidl: independent and democratic high school federation,0,0,0,1
+UNEF: National Union of Students of France,unef: national union of students of france,1,0,0,0
+Palestinian Group (France),palestinian group (france),0,0,0,1
+Armenian Group (France),armenian group (france),0,0,0,1
+Bake Bidea,bake bidea,1,0,0,0
+AP: Peacemakers,ap: peacemakers,0,0,0,1
+Basque Group (France),basque group (france),0,0,0,1
+CFDT: French Democratic Confederation of Labor,cfdt: french democratic confederation of labor,1,0,0,0
+MRAP: Movement Against Racism and For Friendship Between Peoples,mrap: movement against racism and for friendship between peoples,1,0,0,0
+UNSA: National Union of Autonomous Trade Unions,unsa: national union of autonomous trade unions,0,0,0,1
+Black Bloc,black bloc,0,0,0,1
+EELV: Europe Ecology - The Greens,eelv: europe ecology - the greens,1,0,0,0
+PCF: French Communist Party,pcf: french communist party,1,0,0,0
+Greenpeace,greenpeace,1,0,0,0
+MFPF: French Movement for Family Planning,mfpf: french movement for family planning,1,0,0,0
+CP: Peasant Confederation,cp: peasant confederation,0,0,0,1
+Antifa,antifa,1,0,0,0
+CNT: National Labor Confederation (France),cnt: national labor confederation (france),1,0,0,0
+LGBTQ+ (France),lgbtq+ (france),0,0,0,1
+MP: Peace Movement,mp: peace movement,1,0,0,0
+NPA: New Anticapitalist Party,npa: new anticapitalist party,1,0,0,0
+AF: French Action,af: french action,0,1,0,0
+Strike For All,strike for all,0,0,0,1
+SNES-FSU: National Union of Secondary Education,snes-fsu: national union of secondary education,0,0,0,1
+CFTC: French Confederation of Christian Workers,cftc: french confederation of christian workers,0,0,1,0
+Christian Group (France),christian group (france),0,0,0,1
+LFI: France Rebellious,lfi: france rebellious,1,0,0,0
+XR: Extinction Rebellion,xr: extinction rebellion,1,0,0,0
+FNSEA: National Federation of Farmers Unions,fnsea: national federation of farmers unions,0,1,0,0
+PRG: Radical Party of the Left,prg: radical party of the left,1,0,0,0
+FaC: Let's Make Corsica,fac: let's make corsica,0,0,0,1
+Corsican Group (France),corsican group (france),0,0,0,1
+LO: Workers' Struggle,lo: workers' struggle,1,0,0,0
+SNUIPP-FSU: National Union of Elementary School and General College Teachers,snuipp-fsu: national union of elementary school and general college teachers,0,0,0,1
+SOS Racism,sos racism,1,0,0,0
+AP: Peasant Aid,ap: peasant aid,0,0,0,1
+Femen,femen,1,0,0,0
+Algerian Group (France),algerian group (france),0,0,0,1
+Protesters (Algeria),protesters (algeria),0,0,0,1
+Rosies,rosies,1,0,0,0
+FFOC: Angry Wives of Law Enforcement Officers,ffoc: angry wives of law enforcement officers,0,1,0,0
+ISNI: National Inter Union of Residents in Medicine,isni: national inter union of residents in medicine,0,0,0,1
+Students (Serbia),students (serbia),0,0,0,1
+OPRE: Organization of Catering Staff,opre: organization of catering staff,0,0,0,1
+FFMC: French Federation of Angry Bikers,ffmc: french federation of angry bikers,0,0,0,1
+MSF: Doctors Without Borders,msf: doctors without borders,1,0,0,0
+PAZ: Paris Animals Zoopolis,paz: paris animals zoopolis,1,0,0,0
+NVDC: We Want Poppies,nvdc: we want poppies,1,0,0,0
+Judges (France),judges (france),0,0,0,1
+Guinean Group (France),guinean group (france),0,0,0,1
+Friends of the Earth,friends of the earth,1,0,0,0
+Jewish Group (France),jewish group (france),0,0,0,1
+STC: Union of Corsican Workers,stc: union of corsican workers,1,0,0,0
+LR: The Republicans,lr: the republicans,0,1,0,0
+CiF: Heart Forward,cif: heart forward,1,0,0,0
+CL: Free Corsica,cl: free corsica,1,0,0,0
+CP: Patriots Collective,cp: patriots collective,0,1,0,0
+Former Government of France (2017-),former government of france (2017-),1,0,0,0
+Maghrebi Group (France),maghrebi group (france),0,0,0,1
+Moroccan Group (France),moroccan group (france),0,0,0,1
+Generation.s,generation.s,1,0,0,0
+Generation Identitaire,generation identitaire,0,1,0,0
+LICRA: International League Against Racism and Antisemitism,licra: international league against racism and antisemitism,1,0,0,0
+Turkish Group (France),turkish group (france),0,0,0,1
+Kurdish Ethnic Group (Germany),kurdish ethnic group (germany),0,0,0,1
+NT: Us All,nt: us all,0,0,0,1
+Labor Group (International),labor group (international),0,0,0,1
+GN: Black Vests,gn: black vests,1,0,0,0
+CNNR: National Council of the New Resistance,cnnr: national council of the new resistance,0,1,0,0
+FFF: Fridays for Future,fff: fridays for future,1,0,0,0
+Civilians (France),civilians (france),0,0,0,1
+CDR: Committees for the Defence of the Republic,cdr: committees for the defence of the republic,1,0,0,0
+MODEF: Family Farmers Defense Movement,modef: family farmers defense movement,0,0,0,1
+PS: Socialist Party (France),ps: socialist party (france),1,0,0,0
+Migrants (International),migrants (international),0,0,0,1
+Women (International),women (international),0,0,0,1
+Protesters (Kosovo),protesters (kosovo),0,0,0,1
+Refugees/IDPs (Kosovo),refugees/idps (kosovo),0,0,0,1
+Protesters (Cameroon),protesters (cameroon),0,0,0,1
+Refugees/IDPs (Cameroon),refugees/idps (cameroon),0,0,0,1
+Students (Cameroon),students (cameroon),0,0,0,1
+Protesters (Sudan),protesters (sudan),0,0,0,1
+Refugees/IDPs (Sudan),refugees/idps (sudan),0,0,0,1
+AFPS: France-Palestine Solidarity Association,afps: france-palestine solidarity association,1,0,0,0
+RSF: Reporters Without Borders,rsf: reporters without borders,1,0,0,0
+FGR-FP: General Federation of Retired Civil Servants (Reunion),fgr-fp: general federation of retired civil servants (reunion),0,0,0,1
+JA: Young Farmers,ja: young farmers,0,1,0,0
+CNPA: National Automotive Professions Council,cnpa: national automotive professions council,0,0,0,1
+GL: Free Youth,gl: free youth,0,0,0,1
+LAB: Patriotic Workers' Commissions,lab: patriotic workers' commissions,1,0,0,0
+FNLP: National Federation for Free Thought,fnlp: national federation for free thought,0,0,0,1
+MDM: Doctors of the World,mdm: doctors of the world,1,0,0,0
+Greek Group (France),greek group (france),0,0,0,1
+Protesters (Democratic Republic of Congo),protesters (democratic republic of congo),0,0,0,1
+Refugees/IDPs (Democratic Republic of Congo),refugees/idps (democratic republic of congo),0,0,0,1
+Labor Group (Gambia),labor group (gambia),0,0,0,1
+Labor Group (Nigeria),labor group (nigeria),0,0,0,1
+Protesters (Gambia),protesters (gambia),0,0,0,1
+Protesters (Nigeria),protesters (nigeria),0,0,0,1
+Refugees/IDPs (Gambia),refugees/idps (gambia),0,0,0,1
+Refugees/IDPs (Nigeria),refugees/idps (nigeria),0,0,0,1
+GP: Paolina Youth,gp: paolina youth,1,0,0,0
+GI: Independentist Youth,gi: independentist youth,0,1,0,0
+CR: Rural Coordination,cr: rural coordination,0,1,0,0
+SNJ: National Union of Journalists (France),snj: national union of journalists (france),1,0,0,0
+FV: Volunteer Reapers,fv: volunteer reapers,0,0,0,1
+PG: The Left Party,pg: the left party,1,0,0,0
+Former Military Forces of France (2017-),former military forces of france (2017-),0,0,0,1
+FFN: French Federation of Naturism,ffn: french federation of naturism,0,0,0,1
+LREM: The Republic On The Move,lrem: the republic on the move,0,0,1,0
+One Voice,one voice,1,0,0,0
+Students (International),students (international),0,0,0,1
+LP: The Patriots,lp: the patriots,0,1,0,0
+SDN: Nuclear Phase-Out,sdn: nuclear phase-out,0,0,0,1
+LSR: Leisure and Solidarity for Retirees,lsr: leisure and solidarity for retirees,0,0,0,1
+UNRPA: National Union of Retirees and Seniors,unrpa: national union of retirees and seniors,1,0,0,0
+CARE International (International),care international (international),1,0,0,0
+FAGE: Federation of General Student Associations,fage: federation of general student associations,1,0,0,0
+Oxfam,oxfam,1,0,0,0
+GE: Ecology Generation,ge: ecology generation,1,0,0,0
+AS: Solidarity Association,as: solidarity association,0,0,0,1
+MP: Farmers' Movement,mp: farmers' movement,0,0,0,1
+Migrants (Afghanistan),migrants (afghanistan),0,0,0,1
+Protesters (Afghanistan),protesters (afghanistan),0,0,0,1
+Uyghur Ethnic Group (France),uyghur ethnic group (france),0,0,0,1
+Men (France),men (france),0,0,0,1
+PETA: People for the Ethical Treatment of Animals,peta: people for the ethical treatment of animals,1,0,0,0
+MNCP: National Movement of Unemployed and Precarious,mncp: national movement of unemployed and precarious,1,0,0,0
+SNALC: National Education Staff Union,snalc: national education staff union,0,1,0,0
+USM: Union of Magistrates,usm: union of magistrates,0,0,1,0
+EU: European Union,eu: european union,0,0,0,1
+PaP: For Peace,pap: for peace,0,0,0,1
+PNC: Party of the Corsican Nation,pnc: party of the corsican nation,0,0,0,1
+Prisoners (International),prisoners (international),0,0,0,1
+EAG: Together Left,eag: together left,1,0,0,0
+Tunisian Group (France),tunisian group (france),0,0,0,1
+Protesters (Mexico),protesters (mexico),0,0,0,1
+DSP: Democratic Left Party,dsp: democratic left party,1,0,0,0
+WWF: World Wildlife Fund,wwf: world wildlife fund,1,0,0,0
+Refugees/IDPs (Afghanistan),refugees/idps (afghanistan),0,0,0,1
+ADAPEI: Departmental Association of Parents and Friends of People with Mental Disorders,adapei: departmental association of parents and friends of people with mental disorders,1,0,0,0
+Aid Workers (France),aid workers (france),0,0,0,1
+SOS Homophobie,sos homophobie,0,0,0,1
+CRIF: Representative Council of French Jewish Institutions,crif: representative council of french jewish institutions,0,0,0,1
+Protesters (United Kingdom),protesters (united kingdom),0,0,0,1
+Afghan Group (France),afghan group (france),0,0,0,1
+PA: Animalist Party,pa: animalist party,1,0,0,0
+Breton Group (France),breton group (france),0,0,0,1
+POI: Independent Workers' Party,poi: independent workers' party,1,0,0,0
+Together!,together!,0,0,0,1
+ICRC: International Committee of the Red Cross,icrc: international committee of the red cross,1,0,0,0
+Zouaves Paris,zouaves paris,0,1,0,0
+Sudanese Group (France),sudanese group (france),0,0,0,1
+RN: National Rally,rn: national rally,0,1,0,0
+Basque Group (Spain),basque group (spain),0,0,0,1
+Euskal Herria Bildu,euskal herria bildu,1,0,0,0
+UDI: Union of Democrats and Independents,udi: union of democrats and independents,0,0,1,0
+PC: Communist Party,pc: communist party,1,0,0,0
+Free Party,free party,0,0,0,1
+JC: Young Communists,jc: young communists,1,0,0,0
+Refugees/IDPs (Mali),refugees/idps (mali),0,0,0,1
+Burmese Group (France),burmese group (france),0,0,0,1
+Protesters (Myanmar),protesters (myanmar),0,0,0,1
+Teachers (Switzerland),teachers (switzerland),0,0,0,1
+Former Police Forces of France (2017-),former police forces of france (2017-),0,0,0,1
+Chechen Ethnic Group (France),chechen ethnic group (france),0,0,0,1
+Comorian Group (France),comorian group (france),0,0,0,1
+FA-FPT: Autonomous Federation of Territorial Public Service (Reunion),fa-fpt: autonomous federation of territorial public service (reunion),0,0,0,1
+Protesters (Guinea),protesters (guinea),0,0,0,1
+Refugees/IDPs (Guinea),refugees/idps (guinea),0,0,0,1
+Protesters (Albania),protesters (albania),0,0,0,1
+Refugees/IDPs (Albania),refugees/idps (albania),0,0,0,1
+UDB: Breton Democratic Union,udb: breton democratic union,0,0,0,1
+Russian Group (France),russian group (france),0,0,0,1
+Refugees/IDPs (Serbia),refugees/idps (serbia),0,0,0,1
+Colombian Group (France),colombian group (france),0,0,0,1
+Protesters (Palestine),protesters (palestine),0,0,0,1
+Refugees/IDPs (Palestine),refugees/idps (palestine),0,0,0,1
+World Wide Rally for Freedom,world wide rally for freedom,0,0,0,1
+Occitan Party,occitan party,1,0,0,0
+Cuban Group (France),cuban group (france),0,0,0,1
+Students (Mali),students (mali),0,0,0,1
+Syrian Group (France),syrian group (france),0,0,0,1
+KPL: Communist Party of Luxembourg,kpl: communist party of luxembourg,1,0,0,0
+PVDA-PTB: Workers Party of Belgium,pvda-ptb: workers party of belgium,1,0,0,0
+The Left (Germany),the left (germany),1,0,0,0
+The Left (Luxembourg),the left (luxembourg),1,0,0,0
+Romani Ethnic Group (France),romani ethnic group (france),0,0,0,1
+DLF: France Arise,dlf: france arise,0,1,0,0
+No Border Network,no border network,1,0,0,0
+SLT: Earth Uprisings,slt: earth uprisings,1,0,0,0
+Zero Waste Europe,zero waste europe,1,0,0,0
+Labor Group (Luxembourg),labor group (luxembourg),0,0,0,1
+OGBL: Independent Union Luxembourg,ogbl: independent union luxembourg,1,0,0,0
+Tibetan Group (France),tibetan group (france),0,0,0,1
+Migrants (Sudan),migrants (sudan),0,0,0,1
+Iranian Group (France),iranian group (france),0,0,0,1
+SM: Magistrate's Union,sm: magistrate's union,1,0,0,0
+SPS: Prison Guards Union,sps: prison guards union,0,1,0,0
+FGR: Federation of the Republican Left,fgr: federation of the republican left,1,0,0,0
+ANPJ: National Association of Judicial Police,anpj: national association of judicial police,0,0,0,1
+Ukrainian Group (France),ukrainian group (france),0,0,0,1
+Students (Ukraine),students (ukraine),0,0,0,1
+"NUPES: New Popular, Ecological and Social Union","nupes: new popular, ecological and social union",1,0,0,0
+Horizons,horizons,0,0,1,0
+RE: Renaissance,re: renaissance,0,0,1,0
+VL: High School Voice,vl: high school voice,0,0,0,1
+Protesters (Iran),protesters (iran),0,0,0,1
+Women (Iran),women (iran),0,0,0,1
+Ecologist Pole,ecologist pole,1,0,0,0
+Equatorial Guinean Group (France),equatorial guinean group (france),0,0,0,1
+Government of Equatorial Guinea (1979-),government of equatorial guinea (1979-),0,0,0,1
+SNP: National Syndicate of Psychologists,snp: national syndicate of psychologists,0,0,0,1
+No TAV Movement,no tav movement,0,0,0,1
+Protesters (Greece),protesters (greece),0,0,0,1
+Students for Climate,students for climate,1,0,0,0
+Greens/EFA: Greens-European Free Alliance,greens/efa: greens-european free alliance,1,0,0,0
+Polish Group (France),polish group (france),0,0,0,1
+Government of Ukraine (2019-),government of ukraine (2019-),0,0,0,1
+Refugees/IDPs (Ukraine),refugees/idps (ukraine),0,0,0,1
+Labor Group (Ukraine),labor group (ukraine),0,0,0,1
+Women (Colombia),women (colombia),0,0,0,1
+Orthodox Christian Group (France),orthodox christian group (france),0,0,0,1
+PCRF: French Revolutionary Comunist Party,pcrf: french revolutionary comunist party,1,0,0,0
+Radical Party (France),radical party (france),1,0,0,0
+Government of Comoros (2016-),government of comoros (2016-),0,0,0,1
+Protesters (Comoros),protesters (comoros),0,0,0,1
+Tibetan Group (Belgium),tibetan group (belgium),0,0,0,1
+Tibetan Group (Spain),tibetan group (spain),0,0,0,1
+Tibetan Group (Switzerland),tibetan group (switzerland),0,0,0,1
+UCP: Union of Syndicates of Executives of Paris,ucp: union of syndicates of executives of paris,0,0,0,1
+Women (Russia),women (russia),0,0,0,1
+MoDem: Democratic Movement,modem: democratic movement,0,0,1,0
+Reconquest Party,reconquest party,0,1,0,0
+Students (Iran),students (iran),0,0,0,1
+PB: Breton Party,pb: breton party,1,0,0,0
+Senegalese Group (France),senegalese group (france),0,0,0,1
+Refugees/IDPs (Iran),refugees/idps (iran),0,0,0,1
+Government of Armenia (2018-),government of armenia (2018-),0,0,0,1
+Hazara Ethnic Group (France),hazara ethnic group (france),0,0,0,1
+Shiite Muslim Group (France),shiite muslim group (france),0,0,0,1
+DVG: Miscellaneous Left,dvg: miscellaneous left,1,0,0,0
+PDF: Party of France,pdf: party of france,0,1,0,0
+ERC: Catalan Republican Left,erc: catalan republican left,1,0,0,0
+Former Government of Spain (2020-),former government of spain (2020-),1,0,0,0
+No Global Movement,no global movement,0,0,0,1
+Chinese Group (France),chinese group (france),0,0,0,1
+POID: Independent Democratic Workers Party,poid: independent democratic workers party,1,0,1,0
+PKK: Kurdistan Workers' Party,pkk: kurdistan workers' party,1,0,0,0
+Labor Group (Germany),labor group (germany),0,0,0,1
+GDS: Social Democratic Left,gds: social democratic left,1,0,0,0
+Together for the Republic,together for the republic,0,0,1,0
+Catalan Group (France),catalan group (france),0,0,0,1
+Government of Turkey (2016-),government of turkey (2016-),0,0,0,1
+Protesters (Turkey),protesters (turkey),0,0,0,1
+Last Renovation,last renovation,1,0,0,0
+Last Generation (Italy),last generation (italy),1,0,0,0
+Ukrainian Group (Switzerland),ukrainian group (switzerland),0,0,0,1
+CNPMEM: National Committee for Maritime Fisheries and Sea Ranching,cnpmem: national committee for maritime fisheries and sea ranching,0,0,0,1
+UCIJ: United Against Disposable Immigration,ucij: united against disposable immigration,1,0,0,0
+For Brittany!,for brittany!,0,0,0,1
+AMF: Association of French Mayors and Intercommunal Presidents,amf: association of french mayors and intercommunal presidents,0,1,0,0
+LE: The Ecologists,le: the ecologists,1,0,0,0
+DVD: Miscellaneous Right,dvd: miscellaneous right,0,1,0,0
+"BDS: Boycott, Divestment and Sanctions","bds: boycott, divestment and sanctions",1,0,0,0
+Sahrawi Ethnic Group (France),sahrawi ethnic group (france),0,0,0,1
+Kabylian Ethnic Group (France),kabylian ethnic group (france),0,0,0,1
+Women (Afghanistan),women (afghanistan),0,0,0,1
+Arab Group (France),arab group (france),0,0,0,1
+RP: Permanent Revolution,rp: permanent revolution,1,0,0,0
+Farmers (International),farmers (international),0,0,0,1
+Serbian Group (France),serbian group (france),0,0,0,1
+LAB: Abertzales Workers' Committees,lab: abertzales workers' committees,1,0,0,0
+"ROSA: For Reproductive Rights, Against Oppression, Sexism & Austerity","rosa: for reproductive rights, against oppression, sexism & austerity",1,0,0,0
+MEI: Independent Ecological Movement,mei: independent ecological movement,1,0,0,0
+Protesters (Sweden),protesters (sweden),0,0,0,1
+Students (Sweden),students (sweden),0,0,0,1
+NCRI: National Council of Resistance of Iran,ncri: national council of resistance of iran,0,0,0,1
+LS: League of the South,ls: league of the south,0,1,0,0
+Indian Group (France),indian group (france),0,0,0,1
+Migrants (Albania),migrants (albania),0,0,0,1
+PNV: Basque Nationalist Party,pnv: basque nationalist party,0,0,0,1
+Aid Workers (Belgium),aid workers (belgium),0,0,0,1
+Israeli Group (France),israeli group (france),0,0,0,1
+Protestant Christian Group (France),protestant christian group (france),0,0,0,1
+GES: Ecosocialist Left,ges: ecosocialist left,1,0,0,0
+Women in Black,women in black,1,0,0,0
+ADMD: Association for the Right to Die with Dignity,admd: association for the right to die with dignity,0,0,0,1
+Samidoun: Palestinian Prisoner Solidarity Network,samidoun: palestinian prisoner solidarity network,1,0,0,0
+DVC: Miscellaneous Center,dvc: miscellaneous center,0,0,1,0
+Mothers Rebellion,mothers rebellion,1,0,0,0
+SSCS: Sea Shepherd Conservation Society,sscs: sea shepherd conservation society,0,0,0,1
+PP: Public Square,pp: public square,1,0,0,0
+FGR-FP: General Federation of Retired Civil Servants,fgr-fp: general federation of retired civil servants,0,0,0,1
+Congolese Group (France),congolese group (france),0,0,0,1
+SL: Let's Be Free,sl: let's be free,0,0,1,0
+LDH: Human Rights League (Belgium),ldh: human rights league (belgium),1,0,0,0
+TDP: Territories of Progress,tdp: territories of progress,1,0,0,0
+Catalan Group (Spain),catalan group (spain),0,0,0,1
+Women (Switzerland),women (switzerland),0,0,0,1
+Protesters (Brazil),protesters (brazil),0,0,0,1
+Women's Environmental Network,women's environmental network,1,0,0,0
+Scientist Rebellion,scientist rebellion,1,0,0,0
+Farmers (Spain),farmers (spain),0,0,0,1
+Stay Grounded,stay grounded,1,0,0,0
+FA-FP: Autonomous Public Service Federation,fa-fp: autonomous public service federation,0,0,0,1
+Nation,nation,0,0,0,1
+"FNEC FP-FO: Federation of Education, Culture and Vocational Training (France)","fnec fp-fo: federation of education, culture and vocational training (france)",0,0,0,1
+SNEP-FSU: National Union of Physical Education,snep-fsu: national union of physical education,1,0,0,0
+UEJF: Union of Jewish Students of France,uejf: union of jewish students of france,1,0,0,0
+Taiwanese Group (France),taiwanese group (france),0,0,0,1
+AUP: Act Up-Paris,aup: act up-paris,1,0,0,0
+Georgian Group (France),georgian group (france),0,0,0,1
+NFP: New Popular Front,nfp: new popular front,1,0,0,0
+FSPF: Federation of Pharmacists,fspf: federation of pharmacists,0,0,0,1
+CNOP: National Order of Pharmacists,cnop: national order of pharmacists,0,0,0,1
+USPO: Union Group of Pharmacists,uspo: union group of pharmacists,0,0,0,1
+Protesters (Venezuela),protesters (venezuela),0,0,0,1
+Venezuelan Group (France),venezuelan group (france),0,0,0,1
+Kanak Ethnic Group (France),kanak ethnic group (france),0,0,0,1
+Women (Reunion),women (reunion),0,0,0,1
+Pd!: Arise Picardy!,pd!: arise picardy!,0,1,0,0
+The Aftermath,the aftermath,0,0,0,1
+Ue: Student Union,ue: student union,0,0,0,1
+USL: High School Union,usl: high school union,0,0,0,1
+Kanak Ethnic Group (New Caledonia),kanak ethnic group (new caledonia),0,0,0,1
+Protesters (New Caledonia),protesters (new caledonia),0,0,0,1
+UC: Caledonian Union,uc: caledonian union,1,0,0,0
+New Caledonian Group (France),new caledonian group (france),0,0,0,1
+Catholic Christian Group (India),catholic christian group (india),0,0,0,1
+Argentinian Group (France),argentinian group (france),0,0,0,1
+Alsatian Group (France),alsatian group (france),0,0,0,1
+Occitanian Group (France),occitanian group (france),0,0,0,1
+Kurdish Ethnic Group (International),kurdish ethnic group (international),0,0,0,1
+Health Workers (International),health workers (international),0,0,0,1
+Angry Liberal Nurses,angry liberal nurses,1,0,0,0
+PT: Workers' Party (France),pt: workers' party (france),0,0,0,1
+FO: Workers' Front,fo: workers' front,1,0,0,0
+GUE/NGL: The Left in the European Parliament,gue/ngl: the left in the european parliament,1,0,0,0
+Migrants (Ethiopia),migrants (ethiopia),0,0,0,1
+Bangladeshi Group (France),bangladeshi group (france),0,0,0,1
+FLNC: National Liberation Front of Corsica,flnc: national liberation front of corsica,0,0,0,1
+AD!: To the right,ad!: to the right,0,1,0,0
+Buddhist Group (France),buddhist group (france),0,0,0,1
+Euskal Herria Bai,euskal herria bai,0,0,0,1
+ND: New Deal,nd: new deal,0,0,0,1
+Egyptian Group (France),egyptian group (france),0,0,0,1
+MRC: Citizen and Republican Movement,mrc: citizen and republican movement,1,0,0,0
+Protesters (Guadeloupe),protesters (guadeloupe),0,0,0,1
+Protesters (Martinique),protesters (martinique),0,0,0,1
+UDR: Union of the Right for the Republic,udr: union of the right for the republic,0,1,0,0
+Farmers (Germany),farmers (germany),0,0,0,1
+Farmers (Belgium),farmers (belgium),0,0,0,1
+FJA: Federation of Young Farmers,fja: federation of young farmers,0,1,0,0
+R&PS: Regions and People in Solidarity,r&ps: regions and people in solidarity,0,0,0,1
+Labor Group (Italy),labor group (italy),0,0,0,1
