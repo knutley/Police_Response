@@ -1,0 +1,571 @@
+actor_clean,actor_clean_lower,left,right,centre,unknown
+Protesters (Italy),protesters (italy),0,0,0,1
+Protesters (International),protesters (international),0,0,0,1
+Protesters (Bangladesh),protesters (bangladesh),0,0,0,1
+Protesters (Tunisia),protesters (tunisia),0,0,0,1
+Protesters (Bulgaria),protesters (bulgaria),0,0,0,1
+Protesters (Azerbaijan),protesters (azerbaijan),0,0,0,1
+Protesters (Nigeria),protesters (nigeria),0,0,0,1
+Protesters (Algeria),protesters (algeria),0,0,0,1
+Protesters (Somalia),protesters (somalia),0,0,0,1
+Protesters (Egypt),protesters (egypt),0,0,0,1
+Protesters (Belarus),protesters (belarus),0,0,0,1
+Protesters (Cuba),protesters (cuba),0,0,0,1
+Protesters (Eritrea),protesters (eritrea),0,0,0,1
+Protesters (Russia),protesters (russia),0,0,0,1
+Protesters (Ukraine),protesters (ukraine),0,0,0,1
+Protesters (Iran),protesters (iran),0,0,0,1
+Protesters (Pakistan),protesters (pakistan),0,0,0,1
+Protesters (France),protesters (france),0,0,0,1
+Protesters (Senegal),protesters (senegal),0,0,0,1
+Police Forces of Italy (2018-2022),police forces of italy (2018-2022),0,0,0,1
+Police Forces of Italy (2018-2022) Prison Guards,police forces of italy (2018-2022) prison guards,0,0,0,1
+Police Forces of Italy (2018-2022) DIGOS: General Investigations and Special Operations Division,police forces of italy (2018-2022) digos: general investigations and special operations division,0,0,0,1
+Unidentified Armed Group (Italy),unidentified armed group (italy),0,0,0,1
+Rioters (Italy),rioters (italy),0,0,0,1
+Private Security Forces (Italy),private security forces (italy),0,0,0,1
+Rioters (China),rioters (china),0,0,0,1
+Military Forces of Italy (2018-2022) Carabinieri,military forces of italy (2018-2022) carabinieri,0,0,0,1
+Police Forces of Italy (2022-) Prison Guards,police forces of italy (2022-) prison guards,0,0,0,1
+Police Forces of Italy (2022-),police forces of italy (2022-),0,0,0,1
+Police Forces of Italy (2022-) DIGOS: General Investigations and Special Operations Division,police forces of italy (2022-) digos: general investigations and special operations division,0,0,0,1
+Military Forces of Italy (2022-) Carabinieri,military forces of italy (2022-) carabinieri,0,0,0,1
+Let's Remain Free,let's remain free,0,1,0,0
+Teachers (Italy),teachers (italy),0,0,0,1
+CUB: Basic Unit Confederation,cub: basic unit confederation,1,0,0,0
+USB: Base Trade Union,usb: base trade union,1,0,0,0
+COBAS: Confederation of Base Committees,cobas: confederation of base committees,1,0,0,0
+Labor Group (Italy),labor group (italy),0,0,0,1
+"CONFCOMMERCIO: Confederation of Business, Professional Activities and Autonomous Work","confcommercio: confederation of business, professional activities and autonomous work",0,1,0,0
+Antifa,antifa,1,0,0,0
+Women (Italy),women (italy),0,0,0,1
+Students (Italy),students (italy),0,0,0,1
+OBR: One Billion Rising,obr: one billion rising,1,0,0,0
+Health Workers (Italy),health workers (italy),0,0,0,1
+FASI: Federation of Sardinian Associations in Italy,fasi: federation of sardinian associations in italy,0,0,0,1
+AI: Amnesty International,ai: amnesty international,1,0,0,0
+Coldiretti,coldiretti,0,1,0,0
+Farmers (Italy),farmers (italy),0,0,0,1
+PD: Democratic Party (Italy),pd: democratic party (italy),1,0,0,0
+Cagliari Social Forum,cagliari social forum,1,0,0,0
+Action,action,0,0,1,0
+Prisoners (Italy),prisoners (italy),0,0,0,1
+PaP: Power To The People,pap: power to the people,1,0,0,0
+Anticapitalist Left,anticapitalist left,1,0,0,0
+PCI: Italian Communist Party,pci: italian communist party,1,0,0,0
+PMLI: Italian Marxist-Leninist Party,pmli: italian marxist-leninist party,1,0,0,0
+PRC: Communist Refoundation Party,prc: communist refoundation party,1,0,0,0
+PCL: Workers' Communist Party,pcl: workers' communist party,1,0,0,0
+Arcigay,arcigay,1,0,0,0
+LGBTQ+ (Italy),lgbtq+ (italy),0,0,0,1
+AGEDO: Parents of Homosexuals Association,agedo: parents of homosexuals association,1,0,0,0
+Belarusian Group (Italy),belarusian group (italy),0,0,0,1
+ADL COBAS: Workers' Rights Association,adl cobas: workers' rights association,1,0,0,0
+Lawyers (Italy),lawyers (italy),0,0,0,1
+FGC: Front of the Communist Youth,fgc: front of the communist youth,1,0,0,0
+Priority to School,priority to school,0,0,0,1
+Sardines Movement,sardines movement,1,0,0,0
+Libera,libera,0,0,0,1
+Judges (Italy),judges (italy),0,0,0,1
+Refugees/IDPs (International),refugees/idps (international),0,0,0,1
+ANPI: National Association of Italian Partisans,anpi: national association of italian partisans,1,0,0,0
+ANED: National Association of Italian Political Deportees from Nazi Concentration Camps,aned: national association of italian political deportees from nazi concentration camps,1,0,0,0
+Parents from Taranto,parents from taranto,1,0,0,0
+Orange Vests Movement,orange vests movement,0,0,0,1
+Confindustria: General Confederation of Italian Industry,confindustria: general confederation of italian industry,0,1,0,0
+ADI: Association of PhD Students and PhD Holders in Italy,adi: association of phd students and phd holders in italy,1,0,0,0
+No TAV Movement,no tav movement,1,0,0,0
+OSA: Alternative Student Opposition,osa: alternative student opposition,1,0,0,0
+Anarchist Group (Italy),anarchist group (italy),1,0,0,0
+Let's Free Italy,let's free italy,1,0,0,0
+MIO: Hospitality Business Movement,mio: hospitality business movement,0,1,0,0
+Non Una di Meno,non una di meno,1,0,0,0
+No Vax,no vax,0,0,0,1
+Prisoners (International),prisoners (international),0,0,0,1
+UdS: The Students' Union,uds: the students' union,1,0,0,0
+No Bridge Network,no bridge network,0,0,0,1
+BLM: Black Lives Matter,blm: black lives matter,1,0,0,0
+CISL: Italian Confederation of Trade Unions,cisl: italian confederation of trade unions,1,0,0,0
+Armenian Group (Italy),armenian group (italy),0,0,0,1
+Chinese Group (Italy),chinese group (italy),0,0,0,1
+Migrants (International),migrants (international),0,0,0,1
+Stop 5G International,stop 5g international,0,0,0,1
+ARCI: Italian Recreative and Cultural Association,arci: italian recreative and cultural association,1,0,0,0
+FFF: Fridays for Future,fff: fridays for future,1,0,0,0
+Legambiente,legambiente,1,1,0,0
+Catholic Christian Group (Italy),catholic christian group (italy),0,0,0,1
+Tricolor Masks,tricolor masks,0,1,0,0
+Government of Italy (2018-2022),government of italy (2018-2022),0,0,1,0
+M5S: Five Star Movement,m5s: five star movement,1,0,0,0
+RI: Italian Radicals,ri: italian radicals,1,0,1,0
+Jewish Group (Italy),jewish group (italy),0,0,0,1
+NurSind,nursind,1,0,0,0
+Who Takes Care of You?,who takes care of you?,0,0,0,1
+UDU: University Students' Union,udu: university students' union,1,0,0,0
+Tunisian Group (Italy),tunisian group (italy),0,0,0,1
+CPI: CasaPound Italia,cpi: casapound italia,0,1,0,0
+Lega,lega,0,1,0,0
+Independent Politicians (Italy),independent politicians (italy),0,0,0,1
+FN: New Force,fn: new force,0,1,0,0
+FdI: Brothers of Italy,fdi: brothers of italy,0,1,0,0
+FI: Forward Italy,fi: forward italy,0,1,0,0
+CGIL: Italian General Confederation of Labor,cgil: italian general confederation of labor,1,0,0,0
+Civilians (Italy),civilians (italy),0,0,0,1
+UGL: General Labor Union,ugl: general labor union,0,1,0,0
+UIL: Italian Labor Union,uil: italian labor union,1,0,0,0
+RSU: Unified Trade Union Representatives,rsu: unified trade union representatives,0,0,0,1
+Gilda,gilda,0,0,0,1
+SNALS-CONFSAL: National Autonomous School Workers' Trade Union,snals-confsal: national autonomous school workers' trade union,0,0,0,1
+AU: Article One,au: article one,1,0,0,0
+Determined Researchers,determined researchers,1,0,0,0
+LINK - University Network,link - university network,1,0,0,0
+Journalists (Italy),journalists (italy),0,0,0,1
+High School Students' Network,high school students' network,1,0,0,0
+Labor Group (International),labor group (international),0,0,0,1
+ALIUD - Identitary Right,aliud - identitary right,0,1,0,0
+More Europe,more europe,0,0,1,0
+Orthodox Christian Group (Italy),orthodox christian group (italy),0,0,0,1
+Muslim Group (Italy),muslim group (italy),0,0,0,1
+Sikh Group (Italy),sikh group (italy),0,0,0,1
+Farmers (International),farmers (international),0,0,0,1
+CONFARCA: Confederation of United Driving Schools and Automotive Consultants and Nautical Schools,confarca: confederation of united driving schools and automotive consultants and nautical schools,0,0,0,1
+Vox Italy,vox italy,0,1,0,0
+ANAAO-ASSOMED: Association of Medical Directors,anaao-assomed: association of medical directors,0,0,0,1
+Palestinian Group (Italy),palestinian group (italy),0,0,0,1
+PC: Communist Party,pc: communist party,1,0,0,0
+Bangladeshi Group (Italy),bangladeshi group (italy),0,0,0,1
+Labor Group (Bangladesh),labor group (bangladesh),0,0,0,1
+Migrants (Bangladesh),migrants (bangladesh),0,0,0,1
+IV: Italy Alive,iv: italy alive,0,0,1,0
+Forum for the Right to Health,forum for the right to health,1,0,0,0
+MD: Democratic Medicine,md: democratic medicine,0,0,0,1
+Pro Life and Family,pro life and family,0,1,0,0
+Standing Sentinels,standing sentinels,0,1,0,0
+ACLI: Christian Associations of Italian Workers,acli: christian associations of italian workers,0,0,1,0
+Article 21,article 21,0,0,0,1
+GD: Democratic Lawyers,gd: democratic lawyers,1,0,0,0
+Legacoop: The National League of Cooperatives and Mutuals,legacoop: the national league of cooperatives and mutuals,0,1,0,0
+MSF: Doctors Without Borders,msf: doctors without borders,1,0,0,0
+BS: Students' Block,bs: students' block,0,1,0,0
+ActionAid,actionaid,0,0,1,0
+NIBI: Neri Italiani - Black Italians,nibi: neri italiani - black italians,1,0,0,0
+Confesercenti,confesercenti,0,0,0,1
+ENPA: National Authority for Animal Protection,enpa: national authority for animal protection,1,0,0,0
+Confintesa,confintesa,0,0,0,1
+CONFSAL: Workers Autonomous Trade Unions Confederation,confsal: workers autonomous trade unions confederation,0,0,0,1
+FLP: Federation of Public Workers and Public Offices,flp: federation of public workers and public offices,0,0,0,1
+For a Caring Society,for a caring society,1,0,0,0
+FABI: Independent Federation of Italian Bank Workers,fabi: independent federation of italian bank workers,0,0,0,1
+Youth League,youth league,0,1,0,0
+Cuban Group (Italy),cuban group (italy),0,0,0,1
+Kurdish Ethnic Group (Italy),kurdish ethnic group (italy),0,0,0,1
+International Women House,international women house,1,0,0,0
+FNSI: Italian Journalists Union,fnsi: italian journalists union,0,0,0,1
+National Nurses Movement,national nurses movement,0,0,0,1
+No TAP,no tap,1,0,0,0
+FIALS: Italian Autonomous Federation of Healthcare Workers,fials: italian autonomous federation of healthcare workers,0,0,0,1
+CNA: Italian Confederation of Craft Trades and Small and Medium Enterprises,cna: italian confederation of craft trades and small and medium enterprises,0,0,0,1
+Confartigianato,confartigianato,0,0,0,1
+LeG: Freedom and Justice,leg: freedom and justice,0,0,0,1
+Si TAV Movement,si tav movement,0,0,0,1
+EU: European Union,eu: european union,0,0,0,1
+Italian Alliance Stop 5G,italian alliance stop 5g,0,0,0,1
+CAI: Italian Alpine Club,cai: italian alpine club,0,0,0,1
+XR: Extinction Rebellion,xr: extinction rebellion,1,0,0,0
+SAPPE: Autonomous Union of Prison Police,sappe: autonomous union of prison police,0,0,0,1
+USPP: Union of Prison Police Unions,uspp: union of prison police unions,0,0,0,1
+WWF: World Wildlife Fund,wwf: world wildlife fund,1,0,0,0
+National Youth,national youth,0,1,0,0
+ANA: National Association of Street Vendors,ana: national association of street vendors,0,0,0,1
+Fishers (Italy),fishers (italy),0,0,0,1
+FIADEL: Italian Federation of Local Authorities,fiadel: italian federation of local authorities,0,0,0,1
+Prisoners (Tunisia),prisoners (tunisia),0,0,0,1
+Refugees/IDPs (Tunisia),refugees/idps (tunisia),0,0,0,1
+AADI: Association of Nurses' Advocacy,aadi: association of nurses' advocacy,1,0,0,0
+Changing Nurses,changing nurses,0,0,0,1
+COINA: Autonomous Nursing Coordination,coina: autonomous nursing coordination,0,0,0,1
+Nursing Up,nursing up,0,0,0,1
+FDV: Federation of the Greens,fdv: federation of the greens,1,0,0,0
+Zero Waste Europe,zero waste europe,1,0,0,0
+Government of Cape Verde (2011-2021),government of cape verde (2011-2021),0,0,0,1
+Protesters (Cape Verde),protesters (cape verde),0,0,0,1
+Former Government of Italy (2018-2022),former government of italy (2018-2022),0,0,1,0
+SI: Italian Left,si: italian left,1,0,0,0
+Greenpeace,greenpeace,1,0,0,0
+Liberu,liberu,0,0,0,1
+Jailbreak Network,jailbreak network,0,0,0,1
+100% Animalisti,100% animalisti,1,0,0,0
+Italexit,italexit,0,1,0,0
+LAV: Anti-vivisection League,lav: anti-vivisection league,1,0,0,0
+META: Ethical Movement for the Protection of Animals and the Environment,meta: ethical movement for the protection of animals and the environment,1,0,0,0
+Consumers' Lawyers,consumers' lawyers,0,0,0,1
+CISAL: Italian Confederation of Free Workers' Unions,cisal: italian confederation of free workers' unions,0,0,0,1
+OPI: Self-employed Workers' Pride,opi: self-employed workers' pride,0,0,0,1
+NR: We Remain,nr: we remain,0,0,0,1
+Movement of Italian Enterprises,movement of italian enterprises,0,0,0,1
+Riders Union,riders union,1,0,0,0
+AU: University Action,au: university action,0,0,1,0
+FederSpecializzandi,federspecializzandi,0,0,0,1
+No Euro Movement,no euro movement,0,1,0,0
+Magnitude Italy,magnitude italy,0,0,0,1
+Bologna Migrants Network,bologna migrants network,1,0,0,0
+SGB: General Base Union,sgb: general base union,1,0,0,0
+UdC: Union of the Center,udc: union of the center,0,0,1,0
+Let's Change,let's change,0,1,0,0
+CNPS: National Network of Schools' Temporary Employees,cnps: national network of schools' temporary employees,0,0,0,1
+No MUOS,no muos,0,0,0,1
+Knowledge Network,knowledge network,0,0,0,1
+Romani Ethnic Group (Italy),romani ethnic group (italy),0,0,0,1
+SPC: Left Common Project,spc: left common project,1,0,0,0
+Women's March,women's march,1,0,0,0
+SiNAPPe: National Autonomous Trade Union of Prison Guards,sinappe: national autonomous trade union of prison guards,0,0,0,1
+Prisoners (Morocco),prisoners (morocco),0,0,0,1
+Protesters (Morocco),protesters (morocco),0,0,0,1
+Refugees/IDPs (Morocco),refugees/idps (morocco),0,0,0,1
+Mediterranea Saving Humans,mediterranea saving humans,1,0,0,0
+Our Italy,our italy,0,0,0,1
+OSAPP: Autonomous Trade Union of Prison Police,osapp: autonomous trade union of prison police,0,0,0,1
+Farmers (Bulgaria),farmers (bulgaria),0,0,0,1
+CNPP: National Coordination of Prison Police,cnpp: national coordination of prison police,0,0,0,1
+S.PP: Union of Prison Police,s.pp: union of prison police,0,0,0,1
+CONF.I.A.L - Italian Confederation of Independent Workers,conf.i.a.l - italian confederation of independent workers,0,0,0,1
+August 24 Movement,august 24 movement,0,0,0,1
+Justice for Taranto,justice for taranto,1,0,0,0
+AMICA: Italian Doctors' Association Contraception and Abortion,amica: italian doctors' association contraception and abortion,1,0,0,0
+Laiga: Free Italian Association of Gynecologists for Application of Law 194,laiga: free italian association of gynecologists for application of law 194,1,0,0,0
+Critical Mass,critical mass,1,0,0,0
+ANDDL: National Association of Teachers for Workers' Rights,anddl: national association of teachers for workers' rights,0,0,0,1
+VFS: Skinheads Front Veneto,vfs: skinheads front veneto,0,1,0,0
+Christian Group (Italy),christian group (italy),0,0,0,1
+AMA: Italian Doctors for the Environment,ama: italian doctors for the environment,1,0,0,0
+Mountain Wilderness,mountain wilderness,1,0,0,0
+FSP: Police Union Federation,fsp: police union federation,0,0,0,1
+OIPA: International Organization for Animal Protection,oipa: international organization for animal protection,1,0,0,0
+Protesters (China),protesters (china),0,0,0,1
+Consulcesi,consulcesi,0,0,0,1
+CUA: Autonomous University Collective,cua: autonomous university collective,0,0,0,1
+ARAS: Regional Association of Sardinian Breeders,aras: regional association of sardinian breeders,0,0,0,1
+Farmers (India),farmers (india),0,0,0,1
+Protesters (India),protesters (india),0,0,0,1
+Refugees/IDPs (Algeria),refugees/idps (algeria),0,0,0,1
+Never with Salvini,never with salvini,0,0,0,1
+Cape Verdean Group (Italy),cape verdean group (italy),0,0,0,1
+Pitchforks Movement,pitchforks movement,1,0,0,0
+PEL: Party of the European Left,pel: party of the european left,1,0,0,0
+Sea-Watch,sea-watch,1,0,0,0
+Migrants (Somalia),migrants (somalia),0,0,0,1
+EV: Green Europe,ev: green europe,1,0,0,0
+Citizen Committee for Health and Environment in Taranto,citizen committee for health and environment in taranto,1,0,0,0
+LIPU: Italian League for Bird Protection,lipu: italian league for bird protection,1,0,0,0
+Rise Up 4 Climate Justice,rise up 4 climate justice,1,0,0,0
+Catholic Alliance,catholic alliance,0,0,0,1
+End Sars,end sars,1,0,0,0
+Nigerian Group (Italy),nigerian group (italy),0,0,0,1
+CIA: Italian Farmers Confederation,cia: italian farmers confederation,0,0,0,1
+Confagricoltura,confagricoltura,0,0,0,1
+SAP: Autonomous Police Union,sap: autonomous police union,0,0,0,1
+CLNV: Veneto National Liberation Committee,clnv: veneto national liberation committee,0,0,0,1
+LeU: Free and Equal,leu: free and equal,1,0,0,0
+GOIA: Organized Group of Independent Businesses,goia: organized group of independent businesses,0,0,0,1
+Military Forces of Italy (2018-2022),military forces of italy (2018-2022),0,0,0,1
+PdF: People of Family,pdf: people of family,0,1,0,0
+3V Movement,3v movement,0,0,0,1
+Students (China),students (china),0,0,0,1
+WILPF: Women's International League for Peace and Freedom,wilpf: women's international league for peace and freedom,1,0,0,0
+Volt Italy,volt italy,0,0,1,0
+Women in Black,women in black,1,0,0,0
+TNI: National Protection for Businesses,tni: national protection for businesses,0,0,0,1
+Protesters (Slovenia),protesters (slovenia),0,0,0,1
+LS: The Left,ls: the left,1,0,0,0
+Filipino Group (Italy),filipino group (italy),0,0,0,1
+Senegalese Group (Italy),senegalese group (italy),0,0,0,1
+Caritas,caritas,1,0,0,0
+Labor Group (Senegal),labor group (senegal),0,0,0,1
+Migrants (Senegal),migrants (senegal),0,0,0,1
+Refugees/IDPs (Senegal),refugees/idps (senegal),0,0,0,1
+Farmers (Tunisia),farmers (tunisia),0,0,0,1
+Loyalty Action,loyalty action,0,0,1,0
+Free Patrick,free patrick,1,0,0,0
+Federfarma,federfarma,0,0,0,1
+SLAI COBAS: Self-organized Workers Inter-Branch Union,slai cobas: self-organized workers inter-branch union,1,0,0,0
+Civic Escort,civic escort,0,0,0,1
+Tricolor Flame,tricolor flame,0,1,0,0
+PSI: Italian Socialist Party,psi: italian socialist party,1,0,0,0
+AEPC: American Expats for Positive Change,aepc: american expats for positive change,0,0,0,1
+Civilians (United States),civilians (united states),0,0,0,1
+Protesters (United States),protesters (united states),0,0,0,1
+Our Voice,our voice,0,0,0,1
+PETA: People for the Ethical Treatment of Animals,peta: people for the ethical treatment of animals,1,0,0,0
+CIB Unicobas,cib unicobas,1,0,0,0
+EMERGENCY,emergency,0,0,0,1
+LES: Police Union,les: police union,0,0,0,1
+Police Forces of Italy (2018-2022) Guardia di Finanza,police forces of italy (2018-2022) guardia di finanza,0,0,0,1
+SIM: Italian Military Union,sim: italian military union,0,0,0,1
+Protesters (Ecuador),protesters (ecuador),0,0,0,1
+Indian Group (Italy),indian group (italy),0,0,0,1
+No Grandi Navi Committee,no grandi navi committee,1,0,0,0
+No MOSE,no mose,1,0,0,0
+SIULP: Police Workers Unitary Italian Union,siulp: police workers unitary italian union,0,0,0,1
+SI COBAS: Inter-category Trade Union,si cobas: inter-category trade union,1,0,0,0
+Albanian Group (Italy),albanian group (italy),0,0,0,1
+CPOG: Political Collective Gramigna,cpog: political collective gramigna,1,0,0,0
+CSA: Azadi Student Coordination,csa: azadi student coordination,1,0,0,0
+Athamanta,athamanta,0,0,0,1
+ND: We Will Accuse,nd: we will accuse,0,0,0,1
+Egyptian Group (Italy),egyptian group (italy),0,0,0,1
+Polish Group (Italy),polish group (italy),0,0,0,1
+Fight Movement - Unemployed '7 November',fight movement - unemployed '7 november',0,0,0,1
+CNAL: National Confederation of Workers,cnal: national confederation of workers,0,0,0,1
+No TRIV,no triv,1,0,0,0
+Military Forces of Italy (2018-2022) Coast Guard,military forces of italy (2018-2022) coast guard,0,0,0,1
+PPdE: Pensioners' Party of Europe,ppde: pensioners' party of europe,0,0,0,1
+Antifascist Action,antifascist action,1,0,1,0
+Labor Group (Egypt),labor group (egypt),0,0,0,1
+FGS: Federation of Young Socialists,fgs: federation of young socialists,1,0,0,0
+Peruvian Group (Italy),peruvian group (italy),0,0,0,1
+UNITA: National Union of Theater and Audiovisual Performers,unita: national union of theater and audiovisual performers,1,0,0,0
+In School Learning Network,in school learning network,0,0,0,1
+I Open,i open,0,0,0,1
+Animal Save Movement,animal save movement,1,0,0,0
+FISI: Italian Federation of Trade Unions,fisi: italian federation of trade unions,0,0,0,1
+Afghan Group (Italy),afghan group (italy),0,0,0,1
+IW: Together for the Wedding Industry,iw: together for the wedding industry,0,0,0,1
+CR: Changing Course - Communist Youth Organization,cr: changing course - communist youth organization,1,0,0,0
+Gay Party,gay party,1,0,0,0
+Oxfam,oxfam,1,0,0,0
+Students Against Green Pass,students against green pass,0,0,0,1
+The Fair Mean,the fair mean,0,0,0,1
+Burmese Group (Italy),burmese group (italy),0,0,0,1
+UNICEF: United Nations Childrens Fund,unicef: united nations childrens fund,1,0,0,0
+ANIEF: Italian National Association of Teachers and Trainers,anief: italian national association of teachers and trainers,0,0,0,1
+ANCI: National Association of Italian Municipalities,anci: national association of italian municipalities,0,0,0,1
+Migrants (Pakistan),migrants (pakistan),0,0,0,1
+Refugees/IDPs (Pakistan),refugees/idps (pakistan),0,0,0,1
+CARC: Committees to Support the Resistance for Communism,carc: committees to support the resistance for communism,1,0,0,0
+Catanese Anti-racist Network,catanese anti-racist network,1,0,0,0
+No Border Network,no border network,1,0,0,0
+Slot Mob Movement,slot mob movement,0,0,0,1
+The Economy of Francesco,the economy of francesco,0,0,0,1
+Ethiopian Group (Italy),ethiopian group (italy),0,0,0,1
+World Wide Rally for Freedom,world wide rally for freedom,1,0,0,0
+GJ: Yellow Vests,gj: yellow vests,0,0,0,1
+Iranian Group (Italy),iranian group (italy),0,0,0,1
+GD: Young Democrats,gd: young democrats,1,0,0,0
+Possible,possible,0,0,0,1
+VIU: United Businesses Veneto,viu: united businesses veneto,0,0,0,1
+Anarchist Group (Belgium),anarchist group (belgium),1,0,0,0
+Anarchist Group (France),anarchist group (france),1,0,0,0
+Anarchist Group (Germany),anarchist group (germany),1,0,0,0
+Protesters (Belgium),protesters (belgium),0,0,0,1
+Protesters (Germany),protesters (germany),0,0,0,1
+AFI: Italian Fair Operators' Association,afi: italian fair operators' association,0,0,0,1
+PN: Nationalist Party,pn: nationalist party,0,1,0,0
+Genova Free Square,genova free square,0,0,0,1
+Anarchist Group (Bulgaria),anarchist group (bulgaria),1,0,0,0
+Anarchist Group (Poland),anarchist group (poland),1,0,0,0
+Anarchist Group (Portugal),anarchist group (portugal),1,0,0,0
+Anarchist Group (Switzerland),anarchist group (switzerland),1,0,0,0
+Protesters (Poland),protesters (poland),0,0,0,1
+Protesters (Portugal),protesters (portugal),0,0,0,1
+Protesters (Switzerland),protesters (switzerland),0,0,0,1
+FSI-USAE: Independent Trade Unions Federation - Union of European Autonomous Trade Unions,fsi-usae: independent trade unions federation - union of european autonomous trade unions,0,0,0,1
+Refugees/IDPs (Italy),refugees/idps (italy),0,0,0,1
+Labor Group (France),labor group (france),0,0,0,1
+Labor Group (Eritrea),labor group (eritrea),0,0,0,1
+Migrants (Eritrea),migrants (eritrea),0,0,0,1
+Protesters (Afghanistan),protesters (afghanistan),0,0,0,1
+Refugees/IDPs (Afghanistan),refugees/idps (afghanistan),0,0,0,1
+Former Police Forces of Italy (2018-2022),former police forces of italy (2018-2022),0,0,0,1
+Protestant Christian Group (Italy),protestant christian group (italy),0,0,0,1
+Brazilian Group (Italy),brazilian group (italy),0,0,0,1
+Solidary Democracy,solidary democracy,1,0,0,0
+Rainbow Families,rainbow families,1,0,0,0
+CONAPO: Autonomous Trade Union of Firefighters,conapo: autonomous trade union of firefighters,0,0,0,1
+"UCDL: Union for Cure, Rights and Freedom","ucdl: union for cure, rights and freedom",0,0,0,1
+PAE: European Animalist Party,pae: european animalist party,1,0,0,0
+PAI: Italian Animalist Party,pai: italian animalist party,1,0,0,0
+Health Workers (International),health workers (international),0,0,0,1
+Lawyers (International),lawyers (international),0,0,0,1
+Ivorian Group (Italy),ivorian group (italy),0,0,0,1
+FAILMS: Italian Autonomous Federation of Metal Workers and Services,failms: italian autonomous federation of metal workers and services,0,0,0,1
+AS: Student Action,as: student action,0,0,1,0
+SIAL COBAS: Self-organized Cobas Workers Union,sial cobas: self-organized cobas workers union,1,0,0,0
+Russian Group (Italy),russian group (italy),0,0,0,1
+FSSI: Italy Sports Trade Union Federation,fssi: italy sports trade union federation,0,0,0,1
+Do.Ra.: Militant Community of the Twelve Rays,do.ra.: militant community of the twelve rays,0,1,0,0
+Right to Health,right to health,1,0,0,0
+CONFAEL: Autonomous European Workers Confederation,confael: autonomous european workers confederation,0,0,0,1
+AZFM: Mountain Free Zones Association,azfm: mountain free zones association,0,0,0,1
+Women (International),women (international),0,0,0,1
+MIS: Social Idea Movement,mis: social idea movement,0,1,0,0
+Colombian Group (Italy),colombian group (italy),0,0,0,1
+Government of Hungary (2010-),government of hungary (2010-),0,1,0,0
+Government of Poland (2015-2023),government of poland (2015-2023),0,1,0,0
+Protesters (Hungary),protesters (hungary),0,0,0,1
+Protesters (United Kingdom),protesters (united kingdom),0,0,0,1
+SPUC: Society for the Protection of Unborn Children,spuc: society for the protection of unborn children,0,1,0,0
+Refugees/IDPs (Somalia),refugees/idps (somalia),0,0,0,1
+NPOP: No Profit On Pandemic,npop: no profit on pandemic,0,0,0,1
+Journalists (United Kingdom),journalists (united kingdom),0,0,0,1
+Labor Group (Spain),labor group (spain),0,0,0,1
+Protesters (Spain),protesters (spain),0,0,0,1
+Moroccan Group (Italy),moroccan group (italy),0,0,0,1
+LGBTQ+ (Slovenia),lgbtq+ (slovenia),0,0,0,1
+Women (Afghanistan),women (afghanistan),0,0,0,1
+Ecuadorian Group (Italy),ecuadorian group (italy),0,0,0,1
+Protesters (San Marino),protesters (san marino),0,0,0,1
+CSdL: San Marino Confederation of Labor,csdl: san marino confederation of labor,1,0,0,0
+Labor Group (San Marino),labor group (san marino),0,0,0,1
+Chilean Group (Italy),chilean group (italy),0,0,0,1
+Lithuanian Group (Italy),lithuanian group (italy),0,0,0,1
+Ukrainian Group (Italy),ukrainian group (italy),0,0,0,1
+Left For,left for,1,0,0,0
+FIAB: Italian Environment and Bicycle Federation,fiab: italian environment and bicycle federation,1,0,0,0
+Uritaxi: Union representing Italian Taxi Drivers,uritaxi: union representing italian taxi drivers,0,0,0,1
+Pakistani Group (Italy),pakistani group (italy),0,0,0,1
+Shiite Muslim Group (Italy),shiite muslim group (italy),0,0,0,1
+Labor Group (Pakistan),labor group (pakistan),0,0,0,1
+FAI: Italian Anarchist Federation,fai: italian anarchist federation,1,0,0,0
+Animal Rebellion,animal rebellion,1,0,0,0
+EZLN: Zapatista Army of National Liberation,ezln: zapatista army of national liberation,1,0,0,0
+Zapatistas,zapatistas,1,0,0,0
+Protesters (Sweden),protesters (sweden),0,0,0,1
+Protesters (Uganda),protesters (uganda),0,0,0,1
+FdS: Students' Federation,fds: students' federation,1,0,0,0
+CMI: Confederation of Identity Movements,cmi: confederation of identity movements,0,1,0,0
+More Italy,more italy,0,0,0,1
+Aid Workers (Italy),aid workers (italy),0,0,0,1
+ICRC: International Committee of the Red Cross,icrc: international committee of the red cross,1,0,0,0
+Cameroonian Group (Italy),cameroonian group (italy),0,0,0,1
+Women (Iran),women (iran),0,0,0,1
+Government of Italy (2022-),government of italy (2022-),0,1,0,0
+Government of France (2017-),government of france (2017-),0,1,0,0
+Hazara Ethnic Group (Italy),hazara ethnic group (italy),0,0,0,1
+PKK: Kurdistan Workers' Party,pkk: kurdistan workers' party,1,0,0,0
+BD: The Good Right,bd: the good right,0,1,0,0
+AVS: Greens and Left Alliance,avs: greens and left alliance,1,0,0,0
+Greens/EFA: Greens-European Free Alliance,greens/efa: greens-european free alliance,1,0,0,0
+UP: People's Union,up: people's union,1,0,0,0
+Women (Ukraine),women (ukraine),0,0,0,1
+Bosnian-Herzegovinian Group (Italy),bosnian-herzegovinian group (italy),0,0,0,1
+Georgian Group (Italy),georgian group (italy),0,0,0,1
+CI: Courage Italy,ci: courage italy,0,1,0,0
+Evangelical Christian Group (Italy),evangelical christian group (italy),0,0,0,1
+Pax Christi,pax christi,0,0,0,1
+Sardigna Natzione,sardigna natzione,1,0,0,0
+Government of Ukraine (2019-),government of ukraine (2019-),0,0,0,1
+Government of Greece (2019-),government of greece (2019-),0,1,0,0
+Protesters (Greece),protesters (greece),0,0,0,1
+Christian Group (Ukraine),christian group (ukraine),0,0,0,1
+Protesters (Georgia),protesters (georgia),0,0,0,1
+Government of Moldova (2019-2023) Gagauzia Regional Government,government of moldova (2019-2023) gagauzia regional government,0,0,0,1
+Protesters (Moldova),protesters (moldova),0,0,0,1
+Federconsumatori,federconsumatori,1,0,0,0
+Labor Group (Ireland),labor group (ireland),0,0,0,1
+LC: Communist Struggle,lc: communist struggle,1,0,0,0
+Refugees/IDPs (Ukraine),refugees/idps (ukraine),0,0,0,1
+Students (Ukraine),students (ukraine),0,0,0,1
+Labor Group (Ukraine),labor group (ukraine),0,0,0,1
+PVE: European Green Party,pve: european green party,1,0,0,0
+Protesters (Syria),protesters (syria),0,0,0,1
+Buddhist Group (Italy),buddhist group (italy),0,0,0,1
+Basque Group (Spain),basque group (spain),0,0,0,1
+Corsican Group (France),corsican group (france),0,0,0,1
+Sri Lankan Group (Italy),sri lankan group (italy),0,0,0,1
+Protesters (Malta),protesters (malta),0,0,0,1
+Repubblika,repubblika,0,0,0,1
+Government of the People APS,government of the people aps,0,0,0,1
+AV: Anonymous for the Voiceless,av: anonymous for the voiceless,1,0,0,0
+Alt: Alternativa,alt: alternativa,1,0,0,0
+LGBTQ+ (Russia),lgbtq+ (russia),0,0,0,1
+LGBTQ+ (Ukraine),lgbtq+ (ukraine),0,0,0,1
+Students (United States),students (united states),0,0,0,1
+Volt Europa,volt europa,0,0,1,0
+DCN: New Christian Democracy,dcn: new christian democracy,0,1,0,0
+Protesters (Guinea),protesters (guinea),0,0,0,1
+Former Government of Italy (2022-),former government of italy (2022-),0,1,0,0
+"UNESCO: United Nations Educational, Scientific and Cultural Organization","unesco: united nations educational, scientific and cultural organization",0,0,0,1
+IL: Free Italy,il: free italy,1,0,0,0
+Military Forces of Italy (2022-),military forces of italy (2022-),0,0,0,1
+Students (Iran),students (iran),0,0,0,1
+Protesters (Lithuania),protesters (lithuania),0,0,0,1
+Journalists (Iran),journalists (iran),0,0,0,1
+Orthodox Christian Group (Ukraine),orthodox christian group (ukraine),0,0,0,1
+Last Generation (Italy),last generation (italy),1,0,0,0
+Shared Line,shared line,1,0,0,0
+Scientist Rebellion,scientist rebellion,1,0,0,0
+Attac,attac,1,0,0,0
+Climate Strike,climate strike,1,0,0,0
+Protesters (Austria),protesters (austria),0,0,0,1
+Protesters (Croatia),protesters (croatia),0,0,0,1
+CD: Democratic Center,cd: democratic center,0,0,1,0
+Students (Russia),students (russia),0,0,0,1
+DemA: Democracy and Autonomy,dema: democracy and autonomy,1,0,0,0
+Government of the United States (2021-2025),government of the united states (2021-2025),0,0,0,1
+Israeli Group (Italy),israeli group (italy),0,0,0,1
+Protesters (Argentina),protesters (argentina),0,0,0,1
+"BDS: Boycott, Divestment and Sanctions","bds: boycott, divestment and sanctions",1,0,0,0
+Protesters (Palestine),protesters (palestine),0,0,0,1
+Refugees/IDPs (Palestine),refugees/idps (palestine),0,0,0,1
+Health Workers (France),health workers (france),0,0,0,1
+Migrants (Ghana),migrants (ghana),0,0,0,1
+Protesters (Ghana),protesters (ghana),0,0,0,1
+Bengali Ethnic Group (Italy),bengali ethnic group (italy),0,0,0,1
+Italian Network for Peace and Disarmament,italian network for peace and disarmament,1,0,0,0
+Waldensian Evangelical Christian Group (Italy),waldensian evangelical christian group (italy),0,0,0,1
+Tibetan Group (Italy),tibetan group (italy),0,0,0,1
+Fighting Countrysides,fighting countrysides,0,0,0,1
+Former Military Forces of Italy (2022-),former military forces of italy (2022-),0,0,0,1
+French Group (Italy),french group (italy),0,0,0,1
+Friends of the Earth,friends of the earth,1,0,0,0
+ScN: Sud calls Nord,scn: sud calls nord,0,1,0,0
+MNS: Sicilian National Movement,mns: sicilian national movement,0,1,0,0
+IiC: Italy in Common,iic: italy in common,1,0,0,0
+Us Moderates,us moderates,0,0,1,0
+AP: Popular Alternative,ap: popular alternative,0,1,0,0
+OPI: Italian Popular Wave,opi: italian popular wave,0,1,0,0
+Former Government of San Marino (2020-),former government of san marino (2020-),0,0,0,1
+Greek Group (Italy),greek group (italy),0,0,0,1
+Police Forces of Italy (2022-) Guardia di Finanza,police forces of italy (2022-) guardia di finanza,0,0,0,1
+Students (International),students (international),0,0,0,1
+Arab Group (Italy),arab group (italy),0,0,0,1
+PAN: People Animals Nature,pan: people animals nature,1,0,0,0
+FC: Communist Front,fc: communist front,1,0,0,0
+Lebanese Group (Italy),lebanese group (italy),0,0,0,1
+No194,no194,0,1,0,0
+Mothers Against PFAS,mothers against pfas,1,0,0,0
+Ladin Ethnic Group (Italy),ladin ethnic group (italy),1,0,0,0
+Students (Slovenia),students (slovenia),0,0,0,1
+Open Arms,open arms,0,0,0,1
+ALF: Animal Liberation Front,alf: animal liberation front,1,0,0,0
+Argentinian Group (Italy),argentinian group (italy),0,0,0,1
+RA: Agrarian Redemption,ra: agrarian redemption,0,0,0,1
+GPI: Young Palestinians of Italy,gpi: young palestinians of italy,1,0,0,0
+Protesters (Venezuela),protesters (venezuela),0,0,0,1
+Women (Russia),women (russia),0,0,0,1
+Women (Venezuela),women (venezuela),0,0,0,1
+Venezuelan Group (Italy),venezuelan group (italy),0,0,0,1
+CA: Autonomy House,ca: autonomy house,0,0,0,1
+Assisi for a Just Peace,assisi for a just peace,0,0,0,1
+ALDE: European Liberal Party,alde: european liberal party,0,0,1,0
+Gambian Group (Italy),gambian group (italy),0,0,0,1
+Or.S.A: Autonomous and Basic Trade Union Organization,or.s.a: autonomous and basic trade union organization,0,0,0,1
+Christian Group (Switzerland),christian group (switzerland),0,0,0,1
+Labor Group (Switzerland),labor group (switzerland),0,0,0,1
+OCST: Christian Social Organization of Ticino,ocst: christian social organization of ticino,0,0,0,1
+Syna,syna,0,0,0,1
+Unia,unia,1,0,0,0
+Government of Canada (2015-),government of canada (2015-),1,0,0,0
+Protesters (Canada),protesters (canada),0,0,0,1
+Students (Sweden),students (sweden),0,0,0,1
+Labor Group (Afghanistan),labor group (afghanistan),0,0,0,1
+Baha'hi Group (Italy),baha'hi group (italy),0,0,0,1
+South African Group (Italy),south african group (italy),0,0,0,1
+Yemenite Group (Italy),yemenite group (italy),0,0,0,1
+Kazakh Group (Italy),kazakh group (italy),0,0,0,1
+Wave,wave,0,0,0,1
+Government of Romania (2023-2025),government of romania (2023-2025),0,0,0,1
+Protesters (Romania),protesters (romania),0,0,0,1
+Romanian Group (Italy),romanian group (italy),0,0,0,1
+Labor Group (China),labor group (china),0,0,0,1
+Migrants (China),migrants (china),0,0,0,1
