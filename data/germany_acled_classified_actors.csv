@@ -1,0 +1,426 @@
+actor_clean,actor_clean_lower,left,right,centre,unknown
+Protesters (Germany),protesters (germany),0,0,0,1
+Protesters (Thailand),protesters (thailand),0,0,0,1
+Protesters (Moldova),protesters (moldova),0,0,0,1
+Protesters (Bulgaria),protesters (bulgaria),0,0,0,1
+Protesters (Slovenia),protesters (slovenia),0,0,0,1
+Protesters (Argentina),protesters (argentina),0,0,0,1
+Protesters (United States),protesters (united states),0,0,0,1
+Protesters (Belarus),protesters (belarus),0,0,0,1
+Protesters (Iran),protesters (iran),0,0,0,1
+Protesters (Serbia),protesters (serbia),0,0,0,1
+Protesters (China),protesters (china),0,0,0,1
+Protesters (France),protesters (france),0,0,0,1
+Protesters (Armenia),protesters (armenia),0,0,0,1
+Protesters (Turkey),protesters (turkey),0,0,0,1
+Protesters (Poland),protesters (poland),0,0,0,1
+Protesters (International),protesters (international),0,0,0,1
+Protesters (Romania),protesters (romania),0,0,0,1
+Protesters (Morocco),protesters (morocco),0,0,0,1
+Protesters (Italy),protesters (italy),0,0,0,1
+Protesters (Pakistan),protesters (pakistan),0,0,0,1
+Protesters (Somalia),protesters (somalia),0,0,0,1
+Protesters (Iraq),protesters (iraq),0,0,0,1
+Protesters (Palestine),protesters (palestine),0,0,0,1
+Protesters (Afghanistan),protesters (afghanistan),0,0,0,1
+Protesters (Eritrea),protesters (eritrea),0,0,0,1
+Protesters (Sierra Leone),protesters (sierra leone),0,0,0,1
+Protesters (Netherlands),protesters (netherlands),0,0,0,1
+Protesters (Ukraine),protesters (ukraine),0,0,0,1
+Protesters (Syria),protesters (syria),0,0,0,1
+Protesters (Ethiopia),protesters (ethiopia),0,0,0,1
+Protesters (Spain),protesters (spain),0,0,0,1
+Protesters (Russia),protesters (russia),0,0,0,1
+Protesters (South Korea),protesters (south korea),0,0,0,1
+Rioters (Germany),rioters (germany),0,0,0,1
+Police Forces of Germany (2005-2021),police forces of germany (2005-2021),0,0,0,1
+Protesters (Israel),protesters (israel),0,0,0,1
+Private Security Forces (Germany),private security forces (germany),0,0,0,1
+Unidentified Armed Group (Germany),unidentified armed group (germany),0,0,0,1
+Police Forces of Germany (2021-2025),police forces of germany (2021-2025),0,0,0,1
+Lebenslaute,lebenslaute,1,0,0,0
+Stop 5G International,stop 5g international,0,0,0,1
+Labor Group (Germany),labor group (germany),0,0,0,1
+IGM: Industrial Union of Metalworkers,igm: industrial union of metalworkers,1,0,0,0
+Farmers (Germany),farmers (germany),0,0,0,1
+Robin Wood,robin wood,1,0,0,0
+The Left (Germany),the left (germany),1,0,0,0
+Ver.di: United Services Union,ver.di: united services union,1,0,0,0
+Antifa,antifa,1,0,0,0
+Belarusian Group (Germany),belarusian group (germany),0,0,0,1
+DGB: German Trade Union Confederation,dgb: german trade union confederation,1,0,0,0
+Catholic Christian Group (Germany),catholic christian group (germany),0,0,0,1
+Women (Germany),women (germany),0,0,0,1
+BLM: Black Lives Matter,blm: black lives matter,1,0,0,0
+Ende Gelaende,ende gelaende,1,0,0,0
+Sea-Eye,sea-eye,1,0,0,0
+Seebruecke,seebruecke,1,0,0,0
+"IG-BAU: Industrial Union Construction, Agriculture, Environment","ig-bau: industrial union construction, agriculture, environment",0,0,0,1
+Critical Mass,critical mass,1,0,0,0
+Health Workers (Germany),health workers (germany),0,0,0,1
+SPD: Social Democratic Party of Germany,spd: social democratic party of germany,1,0,0,0
+FDP: Free Democratic Party,fdp: free democratic party,0,0,1,0
+OBR: One Billion Rising,obr: one billion rising,1,0,0,0
+The Greens (Germany),the greens (germany),1,0,0,0
+LGBTQ+ (Germany),lgbtq+ (germany),0,0,0,1
+Protesters (Azerbaijan),protesters (azerbaijan),0,0,0,1
+OEDP: Ecological Democratic Party,oedp: ecological democratic party,0,0,1,0
+ADFC: German Bicycle Club,adfc: german bicycle club,0,0,0,1
+Parents Stand Up,parents stand up,0,0,0,1
+PP: Pirate Party (Germany),pp: pirate party (germany),0,0,0,1
+Students (Germany),students (germany),0,0,0,1
+Christian Group (Germany),christian group (germany),0,0,0,1
+Women (United States),women (united states),0,0,0,1
+Teachers (Germany),teachers (germany),0,0,0,1
+Indian Group (Germany),indian group (germany),0,0,0,1
+Government of Germany (2005-2021),government of germany (2005-2021),0,0,1,0
+Greenpeace,greenpeace,1,0,0,0
+FFF: Fridays for Future,fff: fridays for future,1,0,0,0
+Protesters (United Kingdom),protesters (united kingdom),0,0,0,1
+BUND: German Federation for the Environment and Nature Conservation,bund: german federation for the environment and nature conservation,1,0,0,0
+NABU: Nature and Biodiversity Conservation Union,nabu: nature and biodiversity conservation union,1,0,0,0
+Querdenken,querdenken,0,0,0,1
+The Right (Germany),the right (germany),0,1,0,0
+FGA: Fridays Against Old Age Poverty,fga: fridays against old age poverty,1,0,0,0
+SJD: Socialist Youth Germany - The Falcons,sjd: socialist youth germany - the falcons,1,0,0,0
+Women (Belarus),women (belarus),0,0,0,1
+XR: Extinction Rebellion,xr: extinction rebellion,1,0,0,0
+RSF: Reporters Without Borders,rsf: reporters without borders,1,0,0,0
+Journalists (Germany),journalists (germany),0,0,0,1
+PETA: People for the Ethical Treatment of Animals,peta: people for the ethical treatment of animals,1,0,0,0
+NPD: National Democratic Party of Germany,npd: national democratic party of germany,0,0,1,0
+JN: Young Nationalists,jn: young nationalists,0,1,0,0
+Azerbaijani Group (Germany),azerbaijani group (germany),0,0,0,1
+Turkish Group (Germany),turkish group (germany),0,0,0,1
+DKP: German Communist Party,dkp: german communist party,1,0,0,0
+Pax Christi,pax christi,1,0,0,0
+AfD: Alternative for Germany,afd: alternative for germany,0,1,0,0
+Left Youth Solid,left youth solid,1,0,0,0
+PARTEI: The Party,partei: the party,1,0,0,0
+Muslim Group (Germany),muslim group (germany),0,0,0,1
+Arab Group (Germany),arab group (germany),0,0,0,1
+National Resistance,national resistance,0,0,0,1
+GJ: Green Youth (Germany),gj: green youth (germany),1,0,0,0
+MLPD: Marxist-Leninist Party of Germany,mlpd: marxist-leninist party of germany,1,0,0,0
+Kurdish Ethnic Group (Germany),kurdish ethnic group (germany),0,0,0,1
+UID: Union of International Democrats,uid: union of international democrats,0,0,1,0
+Yezidi Ethnic Group (Germany),yezidi ethnic group (germany),0,0,0,1
+FVC: Women Association Courage,fvc: women association courage,1,0,0,0
+RAH: Red Construction Hamburg,rah: red construction hamburg,0,0,0,1
+Reich Citizens,reich citizens,0,1,0,0
+Labor Group (France),labor group (france),0,0,0,1
+IL: Interventionist Left,il: interventionist left,1,0,0,0
+GEW: German Education Union,gew: german education union,1,0,0,0
+Alliance Against the Right,alliance against the right,1,1,0,0
+Rise Up,rise up,1,0,0,0
+RH: Red Aid,rh: red aid,1,0,0,0
+Jusos: Young Socialists in the SPD,jusos: young socialists in the spd,1,0,0,0
+Caritas,caritas,1,0,0,0
+Hizb ut-Tahrir,hizb ut-tahrir,0,0,0,1
+Uyghur Ethnic Group (Germany),uyghur ethnic group (germany),0,0,0,1
+Iranian Group (Germany),iranian group (germany),0,0,0,1
+Journalists (Turkey),journalists (turkey),0,0,0,1
+DFG-VK: The German Peace Community,dfg-vk: the german peace community,1,0,0,0
+Campact,campact,1,0,0,0
+Fossil Free,fossil free,1,0,0,0
+KDW: Communication Point Democratic Resistance,kdw: communication point democratic resistance,1,0,0,0
+Sea-Watch,sea-watch,1,0,0,0
+Grannies Against the Right (Germany),grannies against the right (germany),0,1,0,0
+Pro Chemnitz,pro chemnitz,0,1,0,0
+PEGIDA: Patriotic Europeans Against the Islamisation of the Occident,pegida: patriotic europeans against the islamisation of the occident,0,1,0,0
+Labor Group (Poland),labor group (poland),0,0,0,1
+Students (Poland),students (poland),0,0,0,1
+FUSS: Association for Pedestrian Traffic,fuss: association for pedestrian traffic,0,0,0,1
+IBD: Identitarian Movement Germany,ibd: identitarian movement germany,0,1,0,0
+Attac,attac,1,0,0,0
+"IGBCE: Industrial Union for Mining, Chemistry and Energy","igbce: industrial union for mining, chemistry and energy",0,0,0,1
+Environmental Union,environmental union,1,0,0,0
+REBELL: Youth League Rebel,rebell: youth league rebel,1,0,0,0
+The Third Path,the third path,0,1,0,0
+SJ: Steeler Boys,sj: steeler boys,0,1,0,0
+Alevi Muslim Group (Germany),alevi muslim group (germany),0,0,0,1
+SDAJ: Socialist German Workers Youth,sdaj: socialist german workers youth,1,0,0,0
+CDU: Christian Democratic Union of Germany,cdu: christian democratic union of germany,0,1,0,0
+Health Workers (Poland),health workers (poland),0,0,0,1
+Russian Group (Germany),russian group (germany),0,0,0,1
+Thugida,thugida,0,1,0,0
+ZH: Future Homeland,zh: future homeland,0,0,0,1
+VCD: Traffic Club Germany,vcd: traffic club germany,1,0,0,0
+Palestinian Group (Germany),palestinian group (germany),1,0,0,0
+Refugees/IDPs (International),refugees/idps (international),0,0,0,1
+Resistance 2020,resistance 2020,0,0,0,1
+Farmers (Romania),farmers (romania),0,0,0,1
+FAU: Free Workers Union,fau: free workers union,1,0,0,0
+Fishers (Germany),fishers (germany),0,0,0,1
+Chemnitz Nazifrei,chemnitz nazifrei,1,0,0,0
+Indivisible,indivisible,1,0,0,0
+Pulse of Europe,pulse of europe,1,0,0,0
+Animal Rebellion,animal rebellion,1,0,0,0
+Protesters (Libya),protesters (libya),0,0,0,1
+Refugees/IDPs (Libya),refugees/idps (libya),0,0,0,1
+ARIWA: Animal Rights Watch,ariwa: animal rights watch,1,0,0,0
+Iraqi Group (Germany),iraqi group (germany),0,0,0,1
+BifF: Biker for Freedom,biff: biker for freedom,0,0,0,1
+GJ: Yellow Vests,gj: yellow vests,0,0,0,1
+Together Against the Animal Industry,together against the animal industry,1,0,0,0
+FK: Kandel Women's Alliance,fk: kandel women's alliance,1,0,0,0
+IB: Internationalist Alliance,ib: internationalist alliance,1,0,0,0
+JA: Young Alternative for Germany,ja: young alternative for germany,0,1,0,0
+Marburger Bund,marburger bund,0,0,0,1
+All Villages Stay,all villages stay,0,0,0,1
+Animal Save Movement,animal save movement,1,0,0,0
+Replace Coal,replace coal,1,0,0,0
+ABC: Anarchist Black Cross,abc: anarchist black cross,1,0,0,0
+BlockaDO,blockado,0,0,0,1
+Refugees/IDPs (Pakistan),refugees/idps (pakistan),0,0,0,1
+Labor Group (Italy),labor group (italy),0,0,0,1
+FDJ: Free German Youth,fdj: free german youth,0,0,1,0
+Black Community Hamburg,black community hamburg,1,0,0,0
+POE: Patriotic Opposition Europe,poe: patriotic opposition europe,0,1,0,0
+Animals United,animals united,1,0,0,0
+DPVKOM: Communications Union,dpvkom: communications union,0,0,0,1
+Peace Plenum,peace plenum,1,0,0,0
+LGBTQ+ (Poland),lgbtq+ (poland),0,0,0,1
+Standup Against Racism,standup against racism,1,0,0,0
+Aramean Ethnic Group (Germany),aramean ethnic group (germany),0,0,0,1
+Women (Brazil),women (brazil),0,0,0,1
+Women (Uruguay),women (uruguay),0,0,0,1
+JEF: Young European Federalists,jef: young european federalists,0,0,1,0
+NIKA: Nationalism Is Not an Alternative,nika: nationalism is not an alternative,1,0,0,0
+Independent Politicians (Germany),independent politicians (germany),0,0,0,1
+Maria 2.0,maria 2.0,1,0,0,0
+Pro Asyl,pro asyl,1,0,0,0
+AI: Amnesty International,ai: amnesty international,1,0,0,0
+Colorful Instead Of Brown,colorful instead of brown,1,0,0,0
+Fishers (Switzerland),fishers (switzerland),0,0,0,1
+Protesters (Switzerland),protesters (switzerland),0,0,0,1
+Evangelical Christian Group (Germany),evangelical christian group (germany),0,0,0,1
+Jewish Group (Germany),jewish group (germany),0,0,0,1
+Syrian Group (Germany),syrian group (germany),0,0,0,1
+South Korean Group (Germany),south korean group (germany),0,0,0,1
+"BDS: Boycott, Divestment and Sanctions","bds: boycott, divestment and sanctions",1,0,0,0
+Heart Instead of Hate,heart instead of hate,1,0,0,0
+Muslim Interaktiv,muslim interaktiv,0,0,0,1
+HOGESA: Hooligans Against Salafists,hogesa: hooligans against salafists,0,1,0,0
+Protesters (Denmark),protesters (denmark),0,0,0,1
+BPE: Citizens' Movement Pax Europa,bpe: citizens' movement pax europa,0,1,0,0
+AUF: Essen Rise Up,auf: essen rise up,1,0,0,0
+BD: Brotherhood Germany,bd: brotherhood germany,0,1,0,0
+Lawyers (Germany),lawyers (germany),0,0,0,1
+Reclaim the Night,reclaim the night,1,0,0,0
+Refugees/IDPs (Iraq),refugees/idps (iraq),0,0,0,1
+Anarchist Group (Germany),anarchist group (germany),0,0,0,1
+SOKO Animal Protection,soko animal protection,1,0,0,0
+Refugees/IDPs (Iran),refugees/idps (iran),0,0,0,1
+VVN-BdA: Association of Persecutees of the Nazi Regime/Federation of Antifascists,vvn-bda: association of persecutees of the nazi regime/federation of antifascists,1,0,0,0
+Refugees/IDPs (Somalia),refugees/idps (somalia),0,0,0,1
+Migrants (Iraq),migrants (iraq),0,0,0,1
+TKP/ML: Communist Party of Turkey/Marxist-Leninist,tkp/ml: communist party of turkey/marxist-leninist,1,0,0,0
+CSU: Christian Social Union in Bavaria,csu: christian social union in bavaria,0,1,0,0
+Women (Iran),women (iran),0,0,0,1
+Afghan Group (Germany),afghan group (germany),0,0,0,1
+KFD: Catholic Women Association Germany,kfd: catholic women association germany,0,0,0,1
+YPG: People's Protection Units,ypg: people's protection units,1,0,0,0
+Polish Group (Germany),polish group (germany),0,0,0,1
+Refugees/IDPs (Afghanistan),refugees/idps (afghanistan),0,0,0,1
+Government of the Czech Republic (2018-2021),government of the czech republic (2018-2021),0,1,0,0
+Romani Ethnic Group (Germany),romani ethnic group (germany),0,0,0,1
+DITIB: Turkish-Islamic Union for Religious Affairs,ditib: turkish-islamic union for religious affairs,0,0,0,1
+Refugees/IDPs (Turkey),refugees/idps (turkey),0,0,0,1
+Labor Group (Turkey),labor group (turkey),0,0,0,1
+No Need for Racism,no need for racism,1,0,0,0
+OTFR: Open Convention Against Racism and Fascism in Tubingen and Region,otfr: open convention against racism and fascism in tubingen and region,1,0,0,0
+Mission Coal Stop,mission coal stop,1,0,0,0
+Generation Foundation,generation foundation,0,0,0,1
+Stay On The Ground,stay on the ground,1,0,0,0
+Protesters (Australia),protesters (australia),0,0,0,1
+FW: Free Voters,fw: free voters,0,1,0,0
+Protesters (Austria),protesters (austria),0,0,0,1
+Salafist Muslim Group (Germany),salafist muslim group (germany),0,0,0,1
+Ansaar International,ansaar international,0,0,0,1
+LSV: Land Creates Connection,lsv: land creates connection,0,1,0,0
+Women (International),women (international),0,0,0,1
+Protesters (Myanmar),protesters (myanmar),0,0,0,1
+Students (Myanmar),students (myanmar),0,0,0,1
+German Council for Refugees,german council for refugees,1,0,0,0
+Israeli Group (Germany),israeli group (germany),0,0,0,1
+Moldovan Group (Germany),moldovan group (germany),0,0,0,1
+Refugees/IDPs (Eritrea),refugees/idps (eritrea),0,0,0,1
+Refugees/IDPs (Sierra Leone),refugees/idps (sierra leone),0,0,0,1
+MSF: Doctors Without Borders,msf: doctors without borders,1,0,0,0
+Government of Poland (2015-2023),government of poland (2015-2023),0,1,0,0
+Free Saxony,free saxony,0,1,0,0
+AWO: Worker Welfare,awo: worker welfare,1,0,0,0
+DBB: German Civil Service Federation,dbb: german civil service federation,0,0,1,0
+IGOJ: Initiative in Remembrance of Oury Jalloh,igoj: initiative in remembrance of oury jalloh,1,0,0,0
+ALF: Animal Liberation Front,alf: animal liberation front,1,0,0,0
+The Left.SDS,the left.sds,1,0,0,0
+SI: Solidarity International,si: solidarity international,1,0,0,0
+EUJS: European Union of Jewish Students,eujs: european union of jewish students,0,0,0,1
+ZeroCovid,zerocovid,0,0,0,1
+Protesters (Chile),protesters (chile),0,0,0,1
+Bulgarian Group (Germany),bulgarian group (germany),0,0,0,1
+Armenian Group (Germany),armenian group (germany),0,0,0,1
+Greek Group (Germany),greek group (germany),0,0,0,1
+Migrants (International),migrants (international),0,0,0,1
+Grey Wolves (Germany),grey wolves (germany),0,1,0,0
+Hamas,hamas,0,0,0,1
+Palestinian Group (International),palestinian group (international),1,0,0,0
+Migrantifa,migrantifa,1,0,0,0
+Colombian Group (Germany),colombian group (germany),0,0,0,1
+JU: Young Union,ju: young union,0,1,0,0
+Peruvian Group (Germany),peruvian group (germany),0,0,0,1
+Orthodox Christian Group (Germany),orthodox christian group (germany),0,0,0,1
+Labor Group (International),labor group (international),0,0,0,1
+Somali Group (Germany),somali group (germany),0,0,0,1
+LGBTQ+ (Switzerland),lgbtq+ (switzerland),0,0,0,1
+Brazilian Group (Germany),brazilian group (germany),0,0,0,1
+Labor Group (Croatia),labor group (croatia),0,0,0,1
+Labor Group (Hungary),labor group (hungary),0,0,0,1
+Protesters (Croatia),protesters (croatia),0,0,0,1
+Protesters (Hungary),protesters (hungary),0,0,0,1
+Black Bloc,black bloc,0,0,0,1
+Students (Russia),students (russia),0,0,0,1
+Students (Ukraine),students (ukraine),0,0,0,1
+Farmers (Austria),farmers (austria),0,0,0,1
+Farmers (Italy),farmers (italy),0,0,0,1
+EVG: Railway and Transport Union,evg: railway and transport union,1,0,0,0
+Falun Gong Group (Germany),falun gong group (germany),0,1,0,0
+JL: Young Liberals,jl: young liberals,0,0,1,0
+Tibetan Ethnic Group (Germany),tibetan ethnic group (germany),0,0,0,1
+Filipino Group (Germany),filipino group (germany),0,0,0,1
+LKR: Liberal Conservative Reformers,lkr: liberal conservative reformers,0,1,0,0
+Women (Poland),women (poland),0,0,0,1
+Protestant Christian Group (Germany),protestant christian group (germany),0,0,0,1
+Volt Europa,volt europa,0,0,1,0
+CGT: General Confederation of Labor (France),cgt: general confederation of labor (france),0,0,0,1
+IUMV: Entrepreneur Uprising Initiative Mecklenburg-Vorpommern,iumv: entrepreneur uprising initiative mecklenburg-vorpommern,0,0,0,1
+Ukrainian Group (Germany),ukrainian group (germany),0,0,0,1
+Refugees/IDPs (Ukraine),refugees/idps (ukraine),0,0,0,1
+Protesters (Sweden),protesters (sweden),0,0,0,1
+BPD: The Grassroots Democratic Party of Germany,bpd: the grassroots democratic party of germany,1,0,0,0
+Vegan Strike Group,vegan strike group,1,0,0,0
+Students (Iran),students (iran),0,0,0,1
+Teachers (Iran),teachers (iran),0,0,0,1
+Furkan (Germany),furkan (germany),0,0,0,1
+British Group (Germany),british group (germany),0,0,0,1
+Latvian Group (Germany),latvian group (germany),0,0,0,1
+Lithuanian Group (Germany),lithuanian group (germany),0,0,0,1
+Aid Workers (Germany),aid workers (germany),0,0,0,1
+ICRC: International Committee of the Red Cross,icrc: international committee of the red cross,1,0,0,0
+Lawyers (Turkey),lawyers (turkey),0,0,0,1
+WPI: Worker-communist Party of Iran,wpi: worker-communist party of iran,1,0,0,0
+Protesters (Lithuania),protesters (lithuania),0,0,0,1
+ATIK: Confederation of Workers from Turkey in Europe,atik: confederation of workers from turkey in europe,1,0,0,0
+Refugees/IDPs (Syria),refugees/idps (syria),0,0,0,1
+PEL: Party of the European Left,pel: party of the european left,1,0,0,0
+Labor Group (Ukraine),labor group (ukraine),0,0,0,1
+Protesters (Japan),protesters (japan),0,0,0,1
+Women (Ukraine),women (ukraine),0,0,0,1
+Eritrean Group (Germany),eritrean group (germany),0,0,0,1
+No Border Network,no border network,1,0,0,0
+Military Forces of Ukraine (2019-),military forces of ukraine (2019-),0,0,0,1
+Students (China),students (china),0,0,0,1
+PIN: Care in Need,pin: care in need,0,0,0,1
+Protesters (Burkina Faso),protesters (burkina faso),0,0,0,1
+Protesters (Greece),protesters (greece),0,0,0,1
+Patriots NRW,patriots nrw,0,1,0,0
+Last Generation (Germany),last generation (germany),1,0,0,0
+Abolish Frontex,abolish frontex,1,0,0,0
+Scientist Rebellion,scientist rebellion,1,0,0,0
+Ecologists in Action,ecologists in action,1,0,0,0
+SI COBAS: Inter-category Trade Union,si cobas: inter-category trade union,1,0,0,0
+Indigenous Group (Brazil),indigenous group (brazil),0,0,0,1
+Protesters (Brazil),protesters (brazil),0,0,0,1
+WWF: World Wildlife Fund,wwf: world wildlife fund,1,0,0,0
+End Fossil: Occupy,end fossil: occupy,1,0,0,0
+Government of Germany (2021-2025),government of germany (2021-2025),1,0,0,0
+Kazakh Group (Germany),kazakh group (germany),0,0,0,1
+Journalists (Ukraine),journalists (ukraine),0,0,0,1
+Georgian Group (Germany),georgian group (germany),0,0,0,1
+LGBTQ+ (International),lgbtq+ (international),0,0,0,1
+Cameroonian Group (Germany),cameroonian group (germany),0,0,0,1
+NSP: New Strength Party,nsp: new strength party,0,1,0,0
+"NGG: Food, Beverages and Catering Union","ngg: food, beverages and catering union",1,0,0,0
+NGPM: Network of the German Peace Movement,ngpm: network of the german peace movement,1,0,0,0
+Yezidi Ethnic Group (Iraq),yezidi ethnic group (iraq),0,0,0,1
+Government of Ukraine (2019-),government of ukraine (2019-),0,0,0,1
+Samidoun: Palestinian Prisoner Solidarity Network,samidoun: palestinian prisoner solidarity network,1,0,0,0
+DIG: German-Israeli Society,dig: german-israeli society,0,0,0,1
+Italian Group (Germany),italian group (germany),0,0,0,1
+NCRI: National Council of Resistance of Iran,ncri: national council of resistance of iran,1,0,0,0
+Labor Group (Georgia),labor group (georgia),0,0,0,1
+Labor Group (Uzbekistan),labor group (uzbekistan),0,0,0,1
+Protesters (Georgia),protesters (georgia),0,0,0,1
+Protesters (Uzbekistan),protesters (uzbekistan),0,0,0,1
+Kurdish Ethnic Group (Belgium),kurdish ethnic group (belgium),0,0,0,1
+Kurdish Ethnic Group (France),kurdish ethnic group (france),0,0,0,1
+Kurdish Ethnic Group (Luxembourg),kurdish ethnic group (luxembourg),0,0,0,1
+Kurdish Ethnic Group (Netherlands),kurdish ethnic group (netherlands),0,0,0,1
+Kurdish Ethnic Group (Switzerland),kurdish ethnic group (switzerland),0,0,0,1
+Protesters (Belgium),protesters (belgium),0,0,0,1
+Protesters (Luxembourg),protesters (luxembourg),0,0,0,1
+Muslim Group (International),muslim group (international),0,0,0,1
+Shiite Muslim Group (Germany),shiite muslim group (germany),0,0,0,1
+Refugees/IDPs (China),refugees/idps (china),0,0,0,1
+Tibetan Ethnic Group (China),tibetan ethnic group (china),0,0,0,1
+Judges (Germany),judges (germany),0,0,0,1
+Government of Israel (2022-),government of israel (2022-),0,0,0,1
+CDU: Unitary Democratic Coalition,cdu: unitary democratic coalition,0,0,1,0
+ADPM: Dawn of German Patriots - Central Germany,adpm: dawn of german patriots - central germany,0,1,0,0
+The Homeland,the homeland,0,1,0,0
+Bahai Group (Germany),bahai group (germany),0,0,0,1
+Thai Group (Germany),thai group (germany),0,0,0,1
+DAOE: The Alliance for Austria,daoe: the alliance for austria,0,1,0,0
+Former Government of Austria (2019-2025),former government of austria (2019-2025),0,0,1,0
+Friends of the Earth,friends of the earth,1,0,0,0
+Students (Italy),students (italy),0,0,0,1
+Civilians (Germany),civilians (germany),0,0,0,1
+Sorb Ethnic Group (Germany),sorb ethnic group (germany),0,0,0,1
+Protesters (Namibia),protesters (namibia),0,0,0,1
+Protesters (Uganda),protesters (uganda),0,0,0,1
+Students (Sweden),students (sweden),0,0,0,1
+Students (International),students (international),0,0,0,1
+French Group (Germany),french group (germany),0,0,0,1
+Swiss Group (Germany),swiss group (germany),0,0,0,1
+Former Government of Germany (2021-2025),former government of germany (2021-2025),1,0,0,0
+PfS: Pulse for Stuttgart,pfs: pulse for stuttgart,1,0,0,0
+LGBTQ+ (Namibia),lgbtq+ (namibia),0,0,0,1
+LGBTQ+ (Netherlands),lgbtq+ (netherlands),0,0,0,1
+LGBTQ+ (Ukraine),lgbtq+ (ukraine),0,0,0,1
+EU: European Union,eu: european union,0,0,0,1
+Labor Group (Belgium),labor group (belgium),0,0,0,1
+Police Forces of Germany (2021-2025) Prison Guards,police forces of germany (2021-2025) prison guards,0,0,0,1
+Military Forces of Germany (2021-2025),military forces of germany (2021-2025),0,0,0,1
+Argentinian Group (Germany),argentinian group (germany),0,0,0,1
+PTS: Socialist Workers' Party,pts: socialist workers' party,1,0,0,0
+Protesters (Bosnia and Herzegovina),protesters (bosnia and herzegovina),0,0,0,1
+Japanese Group (Germany),japanese group (germany),0,0,0,1
+Korean Group (Germany),korean group (germany),0,0,0,1
+Venezuelan Group (Germany),venezuelan group (germany),0,0,0,1
+Serbian Group (Germany),serbian group (germany),0,0,0,1
+Animal Equality,animal equality,1,0,0,0
+Farmers (Netherlands),farmers (netherlands),0,0,0,1
+Labor Group (Netherlands),labor group (netherlands),0,0,0,1
+Alliance Sahra Wagenknecht,alliance sahra wagenknecht,1,0,0,0
+Farmers (Luxembourg),farmers (luxembourg),0,0,0,1
+Lebanese Group (Germany),lebanese group (germany),0,0,0,1
+Journalists (Russia),journalists (russia),0,0,0,1
+FAZ: Feminist Autonomous Cell,faz: feminist autonomous cell,1,0,0,0
+Gambian Group (Germany),gambian group (germany),0,0,0,1
+Oxfam,oxfam,1,0,0,0
+LVR: The Voice of Reunion,lvr: the voice of reunion,0,0,0,1
+Bangladeshi Group (Germany),bangladeshi group (germany),0,0,0,1
+AV: Anonymous for the Voiceless,av: anonymous for the voiceless,1,0,0,0
+Protesters (Democratic Republic of Congo),protesters (democratic republic of congo),0,0,0,1
+Mission Lifeline,mission lifeline,1,0,0,0
+Youth Against the Right,youth against the right,1,1,0,0
+IBOE: Identitarian Movement Austria,iboe: identitarian movement austria,0,1,0,0
+BSW: Sahra Wagenknecht Alliance - Reason and Justice,bsw: sahra wagenknecht alliance - reason and justice,1,0,0,0
+Kosovan Group (Germany),kosovan group (germany),0,0,0,1
+Human Environment Animal Protection Party,human environment animal protection party,1,0,0,0
+Last Generation (Austria),last generation (austria),1,0,0,0
+Alliance Germany,alliance germany,1,0,0,0
+Former Military Forces of Israel (2022-),former military forces of israel (2022-),0,0,0,1
+PKK: Kurdistan Workers' Party,pkk: kurdistan workers' party,1,0,0,0
+DJV: German Youth Forward,djv: german youth forward,0,1,0,0
