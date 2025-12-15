@@ -1,0 +1,363 @@
+actor_clean,actor_clean_lower,left,right,centre,unknown
+Protesters (Spain),protesters (spain),0,0,0,1
+Protesters (Bulgaria),protesters (bulgaria),0,0,0,1
+Protesters (Algeria),protesters (algeria),0,0,0,1
+Protesters (Morocco),protesters (morocco),0,0,0,1
+Protesters (Belgium),protesters (belgium),0,0,0,1
+Protesters (International),protesters (international),0,0,0,1
+Protesters (Nicaragua),protesters (nicaragua),0,0,0,1
+Protesters (Colombia),protesters (colombia),0,0,0,1
+Protesters (Nigeria),protesters (nigeria),0,0,0,1
+Protesters (Poland),protesters (poland),0,0,0,1
+Protesters (Tunisia),protesters (tunisia),0,0,0,1
+Protesters (Finland),protesters (finland),0,0,0,1
+Protesters (Mexico),protesters (mexico),0,0,0,1
+Protesters (Pakistan),protesters (pakistan),0,0,0,1
+Protesters (Ukraine),protesters (ukraine),0,0,0,1
+Protesters (Iran),protesters (iran),0,0,0,1
+Protesters (Peru),protesters (peru),0,0,0,1
+Protesters (United States),protesters (united states),0,0,0,1
+Protesters (Georgia),protesters (georgia),0,0,0,1
+Protesters (Venezuela),protesters (venezuela),0,0,0,1
+Police Forces of Spain (2020-),police forces of spain (2020-),0,0,0,1
+Rioters (Spain),rioters (spain),0,0,0,1
+Unidentified Armed Group (Spain),unidentified armed group (spain),0,0,0,1
+Private Security Forces (Spain),private security forces (spain),0,0,0,1
+Military Forces of Spain (2020-) Civil Guard,military forces of spain (2020-) civil guard,0,0,0,1
+Military Forces of Spain (2020-),military forces of spain (2020-),0,0,0,1
+Rioters (Israel),rioters (israel),0,0,0,1
+More Plural Platform,more plural platform,0,0,0,1
+Citizens Party,citizens party,0,0,1,0
+PP: People's Party (Spain),pp: people's party (spain),0,1,0,0
+Health Workers (Spain),health workers (spain),0,0,1,0
+Labor Group (Spain),labor group (spain),0,0,0,1
+CCOO: Workers Commissions,ccoo: workers commissions,1,0,0,0
+UGT: General Union of Workers (Spain),ugt: general union of workers (spain),1,0,0,0
+CSIF: Public Official's Independent Trade Union,csif: public official's independent trade union,0,0,1,0
+Lawyers (Spain),lawyers (spain),0,0,0,1
+Teachers (Spain),teachers (spain),0,0,0,1
+Recognition for Hospital Attendants,recognition for hospital attendants,0,0,0,1
+Students (Spain),students (spain),0,0,0,1
+AUGC: Unified Association of Civil Guards,augc: unified association of civil guards,0,0,0,1
+Women (Spain),women (spain),0,0,0,1
+Belarusian Group (Spain),belarusian group (spain),0,0,0,1
+Stop 5G International,stop 5g international,0,0,0,1
+Refugees/IDPs (Morocco),refugees/idps (morocco),0,0,0,1
+Farmers (Spain),farmers (spain),0,0,0,1
+SUT: Solidarity and Workers Unity,sut: solidarity and workers unity,1,0,0,0
+Helpless Women,helpless women,1,0,0,0
+AI: Amnesty International,ai: amnesty international,1,0,0,0
+SATSE: Nursing Union,satse: nursing union,1,0,1,0
+Vox,vox,0,1,0,0
+CGT: General Confederation of Labor (Spain),cgt: general confederation of labor (spain),1,0,0,0
+BLM: Black Lives Matter,blm: black lives matter,1,0,0,0
+Omnium Cultural,omnium cultural,1,0,0,0
+ANC: National Catalan Assembly,anc: national catalan assembly,0,0,0,1
+CDR: Committees for the Defence of the Republic,cdr: committees for the defence of the republic,1,0,0,0
+ELA: Basque Workers' Association,ela: basque workers' association,1,0,0,0
+Euskal Herria Bildu,euskal herria bildu,1,0,0,0
+LAB: Abertzales Workers' Committees,lab: abertzales workers' committees,1,0,0,0
+CIG: Galician Inter-Union Confederation,cig: galician inter-union confederation,1,0,0,0
+"Inclusive Education Platform YES, Special ALSO","inclusive education platform yes, special also",1,0,0,0
+Basque Group (Spain),basque group (spain),1,0,0,0
+ESK: Left Trade Union Convergence,esk: left trade union convergence,1,0,0,0
+Steilas,steilas,1,0,0,0
+Antifa,antifa,1,0,0,0
+Government of Spain (2020-),government of spain (2020-),1,0,0,0
+LGBTQ+ (Spain),lgbtq+ (spain),0,0,0,1
+Green Tide,green tide,1,0,0,0
+SOS Public Health Platform,sos public health platform,1,0,0,0
+Refugees/IDPs (Algeria),refugees/idps (algeria),0,0,0,1
+Refugees/IDPs (International),refugees/idps (international),0,0,0,1
+CUP: Popular Unity Candidacy,cup: popular unity candidacy,1,0,0,0
+ERC: Catalan Republican Left,erc: catalan republican left,1,0,0,0
+FADSP: Spanish Federation of Associations for the Defence of the Public Health Service,fadsp: spanish federation of associations for the defence of the public health service,1,0,0,0
+CSI: Left Common Trade Union,csi: left common trade union,1,0,0,0
+IU: United Left,iu: united left,1,0,0,0
+AnimaNaturalis,animanaturalis,1,0,0,0
+PETA: People for the Ethical Treatment of Animals,peta: people for the ethical treatment of animals,1,0,0,0
+Health Workers in Action,health workers in action,1,0,0,0
+PAH: Platform for People Affected by Mortgages,pah: platform for people affected by mortgages,0,0,0,1
+Fishers (Spain),fishers (spain),0,0,0,1
+USO: Workers' Trade Union,uso: workers' trade union,1,0,0,0
+Sortu,sortu,1,0,0,0
+Labor Group (International),labor group (international),0,0,0,1
+Migrants (International),migrants (international),1,0,0,0
+ASAJA: Agrarian Association of Young Farmers,asaja: agrarian association of young farmers,0,0,0,1
+CESM: State Confederation of Medical Unions,cesm: state confederation of medical unions,0,0,1,0
+JxCat: Together for Catalonia,jxcat: together for catalonia,0,1,0,0
+CNT: National Labor Confederation (Spain),cnt: national labor confederation (spain),1,0,0,0
+Podemos,podemos,1,0,0,0
+BNG: Galician Nationalist Bloc,bng: galician nationalist bloc,1,0,0,0
+FEMP: Spanish Federation of Municipalities and Provinces,femp: spanish federation of municipalities and provinces,0,0,0,1
+PCE: Communist Party of Spain,pce: communist party of spain,1,0,0,0
+Romani Ethnic Group (Spain),romani ethnic group (spain),0,0,0,1
+CEAQUA: State Coordinator of Support to the Argentine Complaint Against the Crimes of Francoism,ceaqua: state coordinator of support to the argentine complaint against the crimes of francoism,1,0,0,0
+JUSAPOL: Police Salary Justice,jusapol: police salary justice,0,0,0,1
+Hospitality of Spain,hospitality of spain,0,0,0,1
+Platform for Leisure and Culture in Madrid,platform for leisure and culture in madrid,0,0,0,1
+Spain by Night,spain by night,0,0,0,1
+Arran,arran,1,0,0,0
+Forward: Socialist Organization of National Liberation,forward: socialist organization of national liberation,1,0,0,0
+SEPC: Union of Students of the Catalan Countries,sepc: union of students of the catalan countries,1,0,0,0
+Red Alert,red alert,0,0,0,1
+ANPE: Independent Trade Union,anpe: independent trade union,0,0,1,0
+October 3 Platform,october 3 platform,1,0,0,0
+Solidarity Trade Union,solidarity trade union,1,0,0,0
+Ernai,ernai,1,0,0,0
+FOMAP-CV: Primary Care Physicians Forum of the Community of Valencia,fomap-cv: primary care physicians forum of the community of valencia,0,0,0,1
+EHNE: Union of Farmers and Breeders of the Basque Country,ehne: union of farmers and breeders of the basque country,1,0,0,0
+The Kellys,the kellys,0,0,0,1
+Armenian Group (Spain),armenian group (spain),0,0,0,1
+OSTA: Trade Union Organization of Workers of Aragon,osta: trade union organization of workers of aragon,1,0,0,0
+ANVAC: National Association of Victims and People Affected by Coronavirus,anvac: national association of victims and people affected by coronavirus,0,0,0,1
+White Tide,white tide,1,0,0,0
+EVA: Coordinator of Empty Spain,eva: coordinator of empty spain,0,0,0,1
+Teruel Exists,teruel exists,1,0,0,0
+Tide of Residencies,tide of residencies,1,0,0,0
+Migrants (Morocco),migrants (morocco),1,0,0,0
+ASPEPC-SPS: Secondary School Teachers Union,aspepc-sps: secondary school teachers union,1,0,0,0
+CAS: Anti-privatization Coordinator of Public Health,cas: anti-privatization coordinator of public health,1,0,0,0
+SOS Racism,sos racism,1,0,0,0
+SMA: Andalusian Medical Union,sma: andalusian medical union,0,0,1,0
+Sare Herritarra,sare herritarra,0,0,0,1
+Women (Nigeria),women (nigeria),0,0,0,1
+Women (Poland),women (poland),0,0,0,1
+Necessary Healthcare Platform,necessary healthcare platform,0,0,0,1
+Police Forces of Spain (2020-) Prison Guards,police forces of spain (2020-) prison guards,0,0,0,1
+Femen,femen,1,0,0,0
+Platform for Fair Financing,platform for fair financing,0,0,0,1
+Sahrawi Ethnic Group (Spain),sahrawi ethnic group (spain),0,0,0,1
+AEHC: Cantabrian Hospitality Business Association,aehc: cantabrian hospitality business association,0,0,0,1
+FFF: Fridays for Future,fff: fridays for future,1,0,0,0
+XR: Extinction Rebellion,xr: extinction rebellion,1,0,0,0
+FNI-PNSOE: National-Socialist Identitarian,fni-pnsoe: national-socialist identitarian,0,1,0,0
+Zaldibar Argitu Platform,zaldibar argitu platform,0,0,0,1
+Journalists (Spain),journalists (spain),0,0,0,1
+Platform 12D,platform 12d,0,0,0,1
+ASFASPRO: Professional Association of Non-Commissioned Officers of the Armed Forces,asfaspro: professional association of non-commissioned officers of the armed forces,0,0,0,1
+Catholic Christian Group (Spain),catholic christian group (spain),0,0,0,1
+More Madrid,more madrid,0,0,0,1
+COESPE: State Coordinator for the Defense of the Public Pension System,coespe: state coordinator for the defense of the public pension system,1,0,0,0
+Prisoners (Spain),prisoners (spain),0,0,0,1
+State Platform for the Public School,state platform for the public school,0,0,0,1
+Moroccan Group (Spain),moroccan group (spain),0,0,0,1
+8M Commission,8m commission,0,0,0,1
+Labor Group (Andorra),labor group (andorra),0,0,0,1
+Refugees/IDPs (Tunisia),refugees/idps (tunisia),0,0,0,1
+Salamanca District Movement,salamanca district movement,1,0,0,0
+PCPE: Communist Party of the Peoples of Spain,pcpe: communist party of the peoples of spain,1,0,0,0
+ATA: Movement for Amnesty and Against Repression,ata: movement for amnesty and against repression,1,0,0,0
+PACMA: Animalist Party,pacma: animalist party,1,0,0,0
+Spain 2000,spain 2000,0,1,0,0
+Judges (Spain),judges (spain),0,0,0,1
+PSOE: Spanish Socialist Workers' Party,psoe: spanish socialist workers' party,1,0,0,0
+Compromise Coalition,compromise coalition,1,0,0,0
+Ecologists in Action,ecologists in action,1,0,0,0
+Students (Finland),students (finland),0,0,0,1
+Climate Justice Network,climate justice network,1,0,0,0
+RxC: 2020 Climate Rebellion,rxc: 2020 climate rebellion,1,0,0,0
+Greenpeace,greenpeace,1,0,0,0
+Elkarrekin Podemos,elkarrekin podemos,1,0,0,0
+Antifascist Coordinator,antifascist coordinator,1,0,0,0
+Safor Antifascist Collective,safor antifascist collective,1,0,0,0
+Labor Group (Morocco),labor group (morocco),0,0,0,1
+Fexbares: Extremadura Federation of Bars and Restaurants Associations,fexbares: extremadura federation of bars and restaurants associations,0,0,0,1
+Women (Andorra),women (andorra),0,0,0,1
+Protesters (Andorra),protesters (andorra),0,0,0,1
+Cuban Group (Spain),cuban group (spain),0,0,0,1
+PNV: Basque Nationalist Party,pnv: basque nationalist party,1,0,0,0
+DN: National Democracy,dn: national democracy,0,1,0,0
+PPUE: United Hairdressers Platform of Spain,ppue: united hairdressers platform of spain,0,0,0,1
+Platform for People Affected by COVID-19,platform for people affected by covid-19,0,0,0,1
+APRA: Professional Association of Autonomous Riders,apra: professional association of autonomous riders,0,0,0,1
+MI15F: Platform of Temporary Public Workers in Fraud of Law,mi15f: platform of temporary public workers in fraud of law,1,0,0,0
+UCFR: Unity Against Fascism and Racism Platform,ucfr: unity against fascism and racism platform,1,0,0,0
+Union of Free Association,union of free association,0,0,0,1
+Solidarity Alert,solidarity alert,0,0,0,1
+Frontal Bastion,frontal bastion,0,1,0,0
+FE de las JONS: Spanish Phalanx of the Councils of the National Syndicalist Offensive,fe de las jons: spanish phalanx of the councils of the national syndicalist offensive,0,1,0,0
+JUPOL: Police Justice,jupol: police justice,0,1,0,0
+Freedom for Pablo Hasel,freedom for pablo hasel,0,0,0,1
+Animal Equality,animal equality,1,0,0,0
+Muslim Group (Spain),muslim group (spain),0,0,0,1
+Aragon Don't Lose Your Train,aragon don't lose your train,0,0,0,1
+ACPV: Cultural Action of the Valencian Country,acpv: cultural action of the valencian country,0,0,0,1
+Independent Politicians (Spain),independent politicians (spain),0,0,0,1
+Labor Group (Portugal),labor group (portugal),0,0,0,1
+Protesters (Portugal),protesters (portugal),0,0,0,1
+Oxfam,oxfam,1,0,0,0
+Colombian Group (Spain),colombian group (spain),0,0,0,1
+UPA: Union of Small Farmers and Ranchers,upa: union of small farmers and ranchers,0,1,0,0
+COAG: Coordinator of Organizations of Farmers and Ranchers,coag: coordinator of organizations of farmers and ranchers,0,0,0,1
+Venezuelan Group (Spain),venezuelan group (spain),0,0,0,1
+AVT: Terrorism Victim's Association,avt: terrorism victim's association,0,0,0,1
+Madrid Safe,madrid safe,1,0,0,0
+AMI: The Association of Municipalities for Independence,ami: the association of municipalities for independence,0,0,0,1
+ACAIP: Union of the Corps of the Administration of Penitentiary Institutions,acaip: union of the corps of the administration of penitentiary institutions,0,1,0,0
+GDR: Defence and Resistance Groups,gdr: defence and resistance groups,1,0,0,0
+Believe In Us,believe in us,0,0,0,1
+"ADICAE: Association for the Defense of Consumers and Users of Banks, Savings Banks and Insurance","adicae: association for the defense of consumers and users of banks, savings banks and insurance",0,0,0,1
+CTM: Metal workers Coordinator from the Bay of Cadiz,ctm: metal workers coordinator from the bay of cadiz,1,0,0,0
+"FELGTB: State Federation of Lesbians, Gays, Transsexuals and Bisexuals","felgtb: state federation of lesbians, gays, transsexuals and bisexuals",0,0,0,1
+HB: Civic Union,hb: civic union,0,0,0,1
+"BDS: Boycott, Divestment and Sanctions","bds: boycott, divestment and sanctions",1,0,0,0
+Inter-Union Confederation,inter-union confederation,1,0,0,0
+Scientist Rebellion,scientist rebellion,1,0,0,0
+"Wind Farms Yes, But Not Like This","wind farms yes, but not like this",1,0,0,0
+Platform for the Defense of the Freight Transport Sector,platform for the defense of the freight transport sector,0,0,0,1
+Ukrainian Group (Spain),ukrainian group (spain),0,0,0,1
+Refugees/IDPs (Ukraine),refugees/idps (ukraine),0,0,0,1
+UPL: Leonese People's Union,upl: leonese people's union,0,0,1,0
+AA: Forward Andalusia,aa: forward andalusia,1,0,0,0
+Anticapitalists,anticapitalists,1,0,0,0
+EU: European Union,eu: european union,0,0,0,1
+Protesters (Russia),protesters (russia),0,0,0,1
+Civilians (Spain),civilians (spain),0,0,0,1
+Women (Pakistan),women (pakistan),0,0,0,1
+Government of Portugal (2015-2024),government of portugal (2015-2024),1,0,0,0
+PS: Socialist Party (Portugal),ps: socialist party (portugal),1,0,0,0
+Prisoners (International),prisoners (international),0,0,0,1
+Platform in Defense of a Decent Health of the Basic Health Zone of Tabara,platform in defense of a decent health of the basic health zone of tabara,0,0,0,1
+GKS: Socialist Youth Coordinator,gks: socialist youth coordinator,1,0,0,0
+Former Government of Spain (2020-),former government of spain (2020-),1,0,0,0
+Catalan Group (Spain),catalan group (spain),1,0,0,0
+Military Forces of Ukraine (2019-),military forces of ukraine (2019-),0,0,0,1
+Elkarrekin Donostia,elkarrekin donostia,1,0,0,0
+United We Can,united we can,1,0,0,0
+MES: More for Majorca,mes: more for majorca,1,0,0,0
+CAS International,cas international,1,0,0,0
+Health Workers (International),health workers (international),0,0,1,0
+SE: Students' Union,se: students' union,1,0,0,0
+Women (Iran),women (iran),0,0,0,1
+Iranian Group (Spain),iranian group (spain),0,0,0,1
+Soria Ya,soria ya,0,0,1,0
+Christian Group (Spain),christian group (spain),0,0,0,1
+Caritas,caritas,1,0,0,0
+STAJ: Justice Administration Workers Union,staj: justice administration workers union,1,0,0,0
+Chinese Group (Spain),chinese group (spain),0,0,0,1
+Futuro Vegetal,futuro vegetal,1,0,0,0
+MCC: Citizens' Movement of Cartagena,mcc: citizens' movement of cartagena,1,0,0,0
+CEAR: Spanish Commission for Refugee Aid,cear: spanish commission for refugee aid,1,0,0,0
+FEVEMP: Spanish Federation of Personal Mobility Vehicles,fevemp: spanish federation of personal mobility vehicles,0,0,0,1
+Russian Group (Spain),russian group (spain),0,0,0,1
+USTEC: Trade Union of Education Workers of Catalonia,ustec: trade union of education workers of catalonia,1,0,0,0
+Georgian Group (Spain),georgian group (spain),0,0,0,1
+Latvian Group (Spain),latvian group (spain),0,0,0,1
+Lithuanian Group (Spain),lithuanian group (spain),0,0,0,1
+FAC: Asturias Forum,fac: asturias forum,0,1,0,0
+En Comu Podem,en comu podem,1,0,0,0
+Inter-Union-CSC,inter-union-csc,1,0,0,0
+ERPV: Republican Left of the Valencian Country,erpv: republican left of the valencian country,1,0,0,0
+Critical Mass,critical mass,1,0,0,0
+End Fossil: Occupy,end fossil: occupy,1,0,0,0
+Brazilian Group (Spain),brazilian group (spain),0,0,0,1
+Friends of the Earth,friends of the earth,1,0,0,0
+Migrants (Peru),migrants (peru),1,0,0,0
+Two Neighbor Alternative,two neighbor alternative,0,0,0,1
+WWF: World Wildlife Fund,wwf: world wildlife fund,1,0,0,0
+NAC: No To Hunting Platform,nac: no to hunting platform,1,0,0,0
+Palestinian Group (Spain),palestinian group (spain),1,0,0,0
+SEP: Portuguese Nurses Union,sep: portuguese nurses union,0,1,1,0
+Health Workers (Portugal),health workers (portugal),0,0,1,0
+CPM: Coalicion por Melilla,cpm: coalicion por melilla,1,0,0,0
+Former Police Forces of Spain (2020-),former police forces of spain (2020-),0,0,0,1
+Aid Workers (Spain),aid workers (spain),0,0,1,0
+ICRC: International Committee of the Red Cross,icrc: international committee of the red cross,1,0,0,0
+CEP: Spanish Confederation of Police,cep: spanish confederation of police,0,1,0,0
+Israeli Group (Spain),israeli group (spain),0,0,0,1
+Women's Revolt in the Church,women's revolt in the church,1,0,0,0
+Women (Italy),women (italy),0,0,0,1
+Syrian Group (Spain),syrian group (spain),0,0,0,1
+MDSP: Table in Defense of Public Healthcare,mdsp: table in defense of public healthcare,1,0,0,0
+UPN: Navarrese People's Union,upn: navarrese people's union,0,1,0,0
+Protesters (Ireland),protesters (ireland),0,0,0,1
+SF: Sinn Fein,sf: sinn fein,1,0,0,0
+IR: Republican Left,ir: republican left,1,0,0,0
+For Andalusia,for andalusia,0,0,0,1
+PRC: Regionalist Party of Cantabria,prc: regionalist party of cantabria,0,0,1,0
+Animal Save Movement,animal save movement,1,0,0,0
+EI: Independentist Left,ei: independentist left,1,0,0,0
+Labor Group (France),labor group (france),0,0,0,1
+PAN: People Animals Nature,pan: people animals nature,1,0,0,0
+PAVP: Green Alliance Party,pavp: green alliance party,1,0,0,0
+UPP: Union for Penagos,upp: union for penagos,0,0,0,1
+A Por Todas (APT),a por todas (apt),0,0,0,1
+Senegalese Group (Spain),senegalese group (spain),0,0,0,1
+PEV: Green Progress,pev: green progress,1,0,0,0
+Jewish Group (Spain),jewish group (spain),0,0,0,1
+Protesters (Palestine),protesters (palestine),0,0,0,1
+Women (Palestine),women (palestine),0,0,0,1
+BComu: Barcelona in Common,bcomu: barcelona in common,1,0,0,0
+UCE: Communist Unification of Spain,uce: communist unification of spain,1,0,0,0
+SMR: Unite Movement,smr: unite movement,1,0,0,0
+Samidoun: Palestinian Prisoner Solidarity Network,samidoun: palestinian prisoner solidarity network,1,0,0,0
+Revolt,revolt,0,0,0,1
+GB: Yes to the Future,gb: yes to the future,0,0,0,1
+Journalists (United States),journalists (united states),0,0,0,1
+Labor Group (Palestine),labor group (palestine),0,0,0,1
+Kurdish Ethnic Group (Spain),kurdish ethnic group (spain),0,0,0,1
+World March of Women,world march of women,1,0,0,0
+DENAES: Foundation for the Defense of the Spanish Nation,denaes: foundation for the defense of the spanish nation,0,1,0,0
+FO: Workers' Front,fo: workers' front,1,0,0,0
+Open Arms,open arms,0,0,0,1
+REC: Rianxo in Common,rec: rianxo in common,0,0,0,1
+EHFAI: Euskal Herria Anti-Imperialist Front,ehfai: euskal herria anti-imperialist front,1,0,0,0
+For La Rioja,for la rioja,0,0,0,1
+CHA: Aragonese Union,cha: aragonese union,1,0,0,0
+Tenants' Union,tenants' union,1,0,0,0
+Government of South Korea (2022-2025),government of south korea (2022-2025),0,0,0,1
+Korean Group (Spain),korean group (spain),0,0,0,1
+Protesters (South Korea),protesters (south korea),0,0,0,1
+New Canaries,new canaries,1,0,0,0
+Government of Israel (2022-),government of israel (2022-),0,0,0,1
+IdPA: Initiative of the Andalusian People,idpa: initiative of the andalusian people,0,0,1,0
+MP: More Country,mp: more country,1,0,0,0
+Greens Equo,greens equo,1,0,0,0
+Protesters (France),protesters (france),0,0,0,1
+Protesters (Argentina),protesters (argentina),0,0,0,1
+Protesters (Turkey),protesters (turkey),0,0,0,1
+Protesters (United Kingdom),protesters (united kingdom),0,0,0,1
+RESCOP: Solidarity Network against the Occupation of Palestine,rescop: solidarity network against the occupation of palestine,1,0,0,0
+UdU: Union of Farmers' and Ranchers' Unions,udu: union of farmers' and ranchers' unions,0,1,0,0
+Anarchist Group (Spain),anarchist group (spain),1,0,0,0
+UdP: Union of Peasants,udp: union of peasants,0,1,0,0
+LYM: Liberals and Moralos,lym: liberals and moralos,0,0,0,1
+We Are Mediterranean,we are mediterranean,0,0,0,1
+LAB: Patriotic Workers' Commissions,lab: patriotic workers' commissions,1,0,0,0
+Argentinian Group (Spain),argentinian group (spain),0,0,0,1
+UPE: United for Extremadura,upe: united for extremadura,1,0,0,0
+Women in Black,women in black,1,0,0,0
+UCCL: Union for Farmers in Castilla y Leon,uccl: union for farmers in castilla y leon,0,1,0,0
+Women (France),women (france),0,0,0,1
+Government of Ukraine (2019-),government of ukraine (2019-),0,0,0,1
+Farmers (France),farmers (france),0,0,0,1
+PAyJ: Anticorruption and Justice Party,payj: anticorruption and justice party,0,0,0,1
+PCP: Portuguese Communist Party,pcp: portuguese communist party,1,0,0,0
+Ecuadorian Group (Spain),ecuadorian group (spain),0,0,0,1
+Nigerian Group (Spain),nigerian group (spain),0,0,0,1
+Caurel Vivo,caurel vivo,0,0,0,1
+IAC-CATAC: Autonomous Candidature of Workers of the Administration of Catalonia,iac-catac: autonomous candidature of workers of the administration of catalonia,1,0,0,0
+We Win Girona,we win girona,0,0,0,1
+Anova: Renewal-Nationalist Brotherhood,anova: renewal-nationalist brotherhood,0,1,0,0
+Migrants (Algeria),migrants (algeria),1,0,0,0
+PUD: Democratic Unitary Platform,pud: democratic unitary platform,1,0,0,0
+VV: Come Venezuela,vv: come venezuela,0,0,1,0
+Women (International),women (international),0,0,0,1
+DO: Ourense Democracy,do: ourense democracy,0,1,0,0
+Health Workers (Cuba),health workers (cuba),0,0,1,0
+Protesters (Cuba),protesters (cuba),0,0,0,1
+RSF: Reporters Without Borders,rsf: reporters without borders,1,0,0,0
+VTLP: Valladolid Takes The Floor,vtlp: valladolid takes the floor,1,0,0,0
+MC: More Compromise,mc: more compromise,0,0,0,1
+Valencian Group (Spain),valencian group (spain),0,0,0,1
+CC: Canarian Coalition,cc: canarian coalition,0,1,0,0
+Lebanese Group (Spain),lebanese group (spain),0,0,0,1
+SNES-FSU: National Union of Secondary Education,snes-fsu: national union of secondary education,0,0,1,0
+Teachers (France),teachers (france),0,0,0,1
+UNSA: National Union of Autonomous Trade Unions,unsa: national union of autonomous trade unions,0,0,1,0
+AxSi: Andalusia by Herself,axsi: andalusia by herself,0,0,0,1
+NFP: New Popular Front,nfp: new popular front,1,0,0,0
+IGV: Interior Galician Alive,igv: interior galician alive,1,0,0,0
+GPC: Catalan Peasantry Guild,gpc: catalan peasantry guild,0,0,0,1
+Canary Islands Have a Limit,canary islands have a limit,1,0,0,0
