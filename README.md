@@ -2,29 +2,25 @@
 
 Replication pipeline for *Selective Non-Securitisation: A Cross-National Quantitative Analysis of Police Response to Political Protest in France, Germany, Italy, Spain and the United Kingdom* (K. Nutley, University of St Andrews).
 
-This README lays out the pipeline in run order. It's assembled from the script names and
-step descriptions scattered through the manuscript's working comments, mapped onto the
-repo's existing folder structure (`data_collection/`, `partisan_classification/`,
-`response_classification/`, `data/`). Two folders — `analysis/` and
-`data_collection/spatial_controls/` — are new; they cover steps the paper describes
-(the Heckman/TOST models, the OSM/NUTS-3 controls) that weren't yet named as scripts
-in the repo. Flagged inline below wherever I've had to infer content rather than
-reproduce something explicitly named.
-
-**Every file in this pipeline is a scaffold, not a working replication.** I don't have
-your actual code — I only have what your comments and methods section describe. Each
-script below has the correct inputs/outputs, function signatures, and parameters as
-specified in the manuscript, with `# TODO` markers wherever the actual logic needs to
-be pasted in from your working files. Treat this as the skeleton to hang your existing
-scripts on, not a from-scratch reimplementation.
+This README lays out the pipeline in run order. 
 
 ## Pipeline order
 
 ```
 1. data_collection/01_ACLED_api.R
    → pulls raw ACLED protest events (2020–2025) for FR/DE/IT/ES/UK via authenticated,
-     paginated API calls
-   → output: data/raw/acled_raw_{country}.csv
+     paginated API calls; was done iteratively
+   → output: acled_all_countries_combined.csv
+2. partisan_classification/
+   └── {country}_acled_partisan_classification.R # script classifying actor partisanship
+3a. data/{country}/
+   ├── {country}_acled_partisan_classification.csv # original event data with partisan classification
+   └──{country}_acled_classified_actors.csv # discrete actors and their classifications
+3b. data/combined/
+   ├── combine_classed_countries.R # script combining classified events
+   └── acled_all_countries_combined.csv # entire event sample
+
+3. 
 
 2. data_collection/spatial_controls/
    ├── 02a_government_building_distance.R   (osmextract + BART-MNLI feature filtering)
