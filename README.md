@@ -14,7 +14,7 @@ This README lays out the pipeline in run order.
 2. partisan_classification/
    └── {country}_acled_partisan_classification.R # script classifying actor partisanship
 3a. data/{country}/
-   ├── {country}_acled_partisan_classification.csv # original event data with partisan classification
+   ├── {country}_acled_partisan_classification.csv # original event data w/ classified partisans
    └──{country}_acled_classified_actors.csv # discrete actors and their classifications
 3b. data/combined/
    ├── combine_classed_countries.R # script combining classified events
