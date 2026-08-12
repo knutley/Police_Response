@@ -12,10 +12,13 @@ This README lays out the pipeline in run order.
      paginated API calls; was done iteratively
    → output: acled_all_countries_combined.csv
 2. partisan_classification/
-   └── {country}_acled_partisan_classification.R # script classifying actor partisanship
+   ├── {country}_acled_partisan_classification.R # script classifying actor partisanship
+   └── {country}_acled_partisan)classification_bootstrapped.R # script applying BART MNLI
 3a. data/{country}/
    ├── {country}_acled_partisan_classification.csv # original event data w/ classified partisans
-   └──{country}_acled_classified_actors.csv # discrete actors and their classifications
+   ├── {country}_acled_classified_actors.csv # discrete actors and their classifications
+   ├── {country}_acled_partisan_classification_bootstrapped_pre.csv ##### YOU NEED TO ADD THESE 
+   └── {country}_acled_partisan_classification_bootstrapped_post.csv
 3b. data/combined/
    ├── combine_classed_countries.R # script combining classified events
    └── acled_all_countries_combined.csv # entire event sample
