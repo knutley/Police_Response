@@ -1,0 +1,9 @@
+"Variable","Outcome","Estimate","SE","p_value"
+"Left","Arrest",-0.0651,0.0617,0.2915
+"Right","Arrest",-0.0294,0.0734,0.689
+"Unknown","Arrest",-0.0393,0.0613,0.5214
+"Counter-Protest","Arrest",-0.1057,0.0767,0.168
+"Left","Brutality",0.0136,0.0521,0.7942
+"Right","Brutality",-0.0124,0.059,0.8342
+"Unknown","Brutality",0.0031,0.0514,0.9515
+"Counter-Protest","Brutality",0.0031,0.0646,0.9611
