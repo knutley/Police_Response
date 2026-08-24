@@ -7,7 +7,8 @@ This README lays out the pipeline in run order.
 ## Pipeline order
 
 ```
-1. data_collection/01_ACLED_api.R
+1. data_collection/
+   └── ACLED_api.R
    → pulls raw ACLED protest events (2020–2025) for FR/DE/IT/ES/UK via authenticated,
      paginated API calls; was done iteratively
    → output: acled_all_countries_combined.csv
