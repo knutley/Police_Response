@@ -13,7 +13,7 @@ This README lays out the pipeline in run order.
    → output: acled_all_countries_combined.csv
 2. partisan_classification/
    ├── {country}_acled_partisan_classification.R # script classifying actor partisanship
-   └── {country}_acled_partisan)classification_bootstrapped.R # script applying BART MNLI
+   └── {country}_acled_partisan_classification_bootstrapped.R # script applying BART MNLI
 3a. data/{country}/
    ├── {country}_acled_partisan_classification.csv # original event data w/ classified partisans
    ├── {country}_acled_classified_actors.csv # discrete actors and their classifications
