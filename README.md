@@ -14,28 +14,43 @@ This README lays out the pipeline in run order.
    → output: acled_all_countries_combined.csv
 2. partisan_classification/{country}/
    ├── {country}_acled_partisan_classification.R # script classifying actor partisanship
+   │    → output: {country}_acled_partisan_classification.csv,
+   │              {country}_acled_classified_actors.csv
    └── {country}_acled_partisan_classification_bootstrapped.R # script applying BART MNLI
-3a. data/{country}/
-   ├── {country}_acled_partisan_classification.csv # original event data w/ classified partisans
-   ├── {country}_acled_classified_actors.csv # discrete actors and their classifications
-   ├── {country}_acled_partisan_classification_bootstrapped_pre.csv # pre-NLP classifications 
-   └── {country}_acled_partisan_classification_bootstrapped_post.csv # post-NLP classifications
-3b. data/combined/
-   ├── acled_all_countries_combined_classed1.csv # Partisan classification complete; still to do response
-   ├── acled_classified_police_presence1.csv # Rule-based classification of police presence (I build on this)
-   ├── acled_classified_severity1.csv # This is the output of the RoBERTa classifier
-   └── acled_merged_controls.csv # Final built dataset 
+   → output: {country}_acled_partisan_classification_bootstrapped_pre.csv,
+             {country}_acled_partisan_classification_bootstrapped_post.csv
+3. data/
+   ├──{country}/
+      ├── {country}_acled_partisan_classification.csv # original event data w/ classified partisans
+      ├── {country}_acled_classified_actors.csv # discrete actors and their classifications
+      ├── {country}_acled_partisan_classification_bootstrapped_pre.csv # NLP classifications, pre-correction
+      └── {country}_acled_partisan_classification_bootstrapped_post.csv # NLP classifications, post-correction
+   ├──combined/
+      ├── acled_all_countries_combined_classed1.csv # dataset w/ just partisanship classification
+      ├── acled_classified_police_presence1.csv # dataset w/ rule-based classification of presence
+      ├── acled_classified_severity1.csv # dataset w/ improved presence and severity measures
+      └── acled_merged_controls.csv # finalised dataset with partisanship, response, and controls 
 4. response_classification/
     ├── classifying_binary_response.R # algorithmic detection of additional police responses
-    ├── response_pos_set.xlsx # positive set 
-    ├── neg_pos_set.xlsx # negative set 
+    │    → output: data/combined/acled_classified_police_presence1.csv
+    ├── response_pos_set.xlsx # positive test set 
+    ├── neg_pos_set.xlsx # test negative set 
     └── roberta_severity.py # builds on the algorithmic detection to find presence, arrest, and brutality
+         → reads: data/combined/acled_classified_police_presence1.csv,
+                 response_pos_set.xlsx, neg_pos_set.xlsx
+         → output: data/combined/acled_classified_severity1.csv
 5. control_variable/
     └── control_variable_construction.R
+         → output: data/combined/acled_merged_controls.csv (final built dataset)
 6. analysis/
-    ├── model1_presence.R       (logistic regression, H1/H3, country FE)
-    ├── model2_severity.R       (arrest / brutality outcome equations)
-    ├── heckman_correction.R    (first-stage probit + IMR, exclusion restriction)
-    ├── 04_tost_equivalence.R            (H2 equivalence testing, δ = 0.184)
-    └── 05_robustness_clustered_se.R     (admin2-clustered SE robustness check)
-```
+    ├── model1_presence.R  [rename from corrected_response_model1.R]
+    │    → output: results/table8_odds_ratios.csv, results/table13_admin2_clustered.csv,
+    │              results/predicted_probabilities.csv,
+    │              results/model1_partisan_coefs_across_specs.csv,
+    │              models/model1_baseline_aligned.rds (+ 3 more .rds)
+    └── model2_severity.R  [rename from corrected_response_models.R]
+        → output: results/tost_equivalence.csv, results/heckman_arrest_full.csv,
+                  results/heckman_brutality_full.csv, results/heckman_partisan_coefs.csv,
+                  results/heckman_vs_nocorrection.csv,
+                  results/table9_table10_descriptive_columns.csv,
+                  models/heckman_arrest.rds, models/heckman_brutality.rds
