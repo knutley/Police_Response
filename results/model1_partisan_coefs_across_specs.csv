@@ -1,0 +1,13 @@
+"Variable","Model","Estimate","SE","p_value"
+"left_pure","Baseline (aligned to Model 2)",0.0669,0.1256,0.5943
+"right_pure","Baseline (aligned to Model 2)",-0.3432,0.1477,0.0202
+"unknown_pure","Baseline (aligned to Model 2)",-0.0744,0.1264,0.5565
+"counter_protest","Baseline (aligned to Model 2)",-0.6875,0.1559,0
+"left_pure","+ Protestor violence",0.0628,0.1256,0.6171
+"right_pure","+ Protestor violence",-0.3517,0.1478,0.0173
+"unknown_pure","+ Protestor violence",-0.0764,0.1265,0.546
+"counter_protest","+ Protestor violence",-0.6877,0.156,0
+"left_pure","+ Police station dist",0.0621,0.1256,0.621
+"right_pure","+ Police station dist",-0.3472,0.1477,0.0187
+"unknown_pure","+ Police station dist",-0.0756,0.1265,0.5498
+"counter_protest","+ Police station dist",-0.6856,0.1559,0
