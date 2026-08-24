@@ -1,0 +1,5 @@
+"Outcome","Variable","estimate","se","delta","p_lower","p_upper","p_tost","ci90_lower","ci90_upper","equivalent","achieved_delta_80pct"
+"Arrest","Left",-0.0651,0.0617,0.1829,0.0281,0,0.0281,-0.1666,0.0364,TRUE,0.1536
+"Arrest","Right",-0.0294,0.0734,0.1829,0.0183,0.0019,0.0183,-0.1502,0.0914,TRUE,0.1829
+"Brutality","Left",0.0136,0.0521,0.1829,1e-04,6e-04,6e-04,-0.0721,0.0992,TRUE,0.1296
+"Brutality","Right",-0.0124,0.059,0.1829,0.0019,5e-04,0.0019,-0.1095,0.0848,TRUE,0.147
