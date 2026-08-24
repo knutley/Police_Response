@@ -11,7 +11,7 @@ This README lays out the pipeline in run order.
    → pulls raw ACLED protest events (2020–2025) for FR/DE/IT/ES/UK via authenticated,
      paginated API calls; was done iteratively
    → output: acled_all_countries_combined.csv
-2. partisan_classification/
+2. partisan_classification/{country}/
    ├── {country}_acled_partisan_classification.R # script classifying actor partisanship
    └── {country}_acled_partisan_classification_bootstrapped.R # script applying BART MNLI
 3a. data/{country}/
