@@ -17,8 +17,8 @@ This README lays out the pipeline in run order.
 3a. data/{country}/
    ├── {country}_acled_partisan_classification.csv # original event data w/ classified partisans
    ├── {country}_acled_classified_actors.csv # discrete actors and their classifications
-   ├── {country}_acled_partisan_classification_bootstrapped_pre.csv ##### YOU NEED TO ADD THESE 
-   └── {country}_acled_partisan_classification_bootstrapped_post.csv
+   ├── {country}_acled_partisan_classification_bootstrapped_pre.csv # pre-BART classifications 
+   └── {country}_acled_partisan_classification_bootstrapped_post.csv # post-BART classifications
 3b. data/combined/
    ├── combine_classed_countries.R # script combining classified events
    └── acled_all_countries_combined.csv # entire event sample
