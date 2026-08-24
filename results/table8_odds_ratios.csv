@@ -1,0 +1,5 @@
+"Variable","Coefficient","Std_Error","Odds_Ratio","CI_Lower","CI_Upper","P_Value","Significant"
+"Left",0.0669,0.1256,1.0692,0.8359,1.3675,0.5943,FALSE
+"Right",-0.3432,0.1477,0.7095,0.5312,0.9477,0.0202,TRUE
+"Unknown",-0.0744,0.1264,0.9283,0.7246,1.1894,0.5565,FALSE
+"Counter-Protest",-0.6875,0.1559,0.5028,0.3704,0.6825,0,TRUE
