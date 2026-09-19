@@ -35,7 +35,8 @@ ACLEDClient <- R6Class("ACLEDClient",
                                username = self$email,
                                password = self$password,
                                grant_type = "password",
-                               client_id = "acled"
+                               client_id = "acled",
+                               scope = "authenticated" 
                              ),
                              encode = "form"
                            )
@@ -252,8 +253,8 @@ collect_country_data <- function(client, country, years, event_type = "Protests"
 
 # Initialize client
 client <- ACLEDClient$new(
-  email = "kn32@st-andrews.ac.uk",
-  password = "*HughM2022"
+  email = "insert email",
+  password = "insert password"
 )
 
 # Authenticate
